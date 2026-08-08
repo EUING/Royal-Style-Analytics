@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>메이플스토리 로얄스타일 대시보드 & 시세 분석기</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Noto+Sans+KR:wght@300;400;500;700;800&family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="app-container">
+        <!-- App Header -->
+        <header class="app-header">
+            <div class="brand">
+                <div class="brand-icon">
+                    <i class="fa-solid fa-crown"></i>
+                </div>
+                <div class="brand-text">
+                    <h1>ROYAL STYLE ANALYTICS</h1>
+                    <p>메이플스토리 로얄스타일 수집 · 시세 · 자산 관리 시스템 v4</p>
+                </div>
+            </div>
+            <nav class="nav-tabs">
+                <button class="tab-btn active" data-tab="dashboard">
+                    <i class="fa-solid fa-chart-pie"></i> 대시보드
+                </button>
+                <button class="tab-btn" data-tab="explorer">
+                    <i class="fa-solid fa-boxes-stacked"></i> 아이템 탐색기
+                </button>
+                <button class="tab-btn" data-tab="seasons">
+                    <i class="fa-solid fa-calendar-days"></i> 시즌별 현황
+                </button>
+                <button class="tab-btn" data-tab="sales">
+                    <i class="fa-solid fa-hand-holding-dollar"></i> 판매 내역
+                </button>
+                <button class="tab-btn" data-tab="entry">
+                    <i class="fa-solid fa-plus-circle"></i> 데이터 등록
+                </button>
+            </nav>
+        </header>
+
+        <!-- KPI Stats Grid -->
+        <section class="stats-grid" id="kpiStatsGrid">
+            <div class="stat-card" style="--card-accent: #fbbf24;">
+                <div class="stat-icon"><i class="fa-solid fa-gem"></i></div>
+                <div class="stat-content">
+                    <span class="stat-label">총 추정 자산 가치</span>
+                    <span class="stat-value" id="kpiTotalVal">-</span>
+                    <span class="stat-sub" id="kpiTotalValSub">최신 시세 기준 평가액</span>
+                </div>
+            </div>
+            <div class="stat-card" style="--card-accent: #06b6d4;">
+                <div class="stat-icon"><i class="fa-solid fa-box-archive"></i></div>
+                <div class="stat-content">
+                    <span class="stat-label">보유 아이템 수량</span>
+                    <span class="stat-value" id="kpiTotalQty">-</span>
+                    <span class="stat-sub" id="kpiTotalItemsSub">962개 품목 중 수집중</span>
+                </div>
+            </div>
+            <div class="stat-card" style="--card-accent: #10b981;">
+                <div class="stat-icon"><i class="fa-solid fa-sack-dollar"></i></div>
+                <div class="stat-content">
+                    <span class="stat-label">누적 판매 매출</span>
+                    <span class="stat-value" id="kpiSalesRevenue">-</span>
+                    <span class="stat-sub" id="kpiSalesCountSub">판매 완료건 내역</span>
+                </div>
+            </div>
+            <div class="stat-card" style="--card-accent: #8b5cf6;">
+                <div class="stat-icon"><i class="fa-solid fa-layer-group"></i></div>
+                <div class="stat-content">
+                    <span class="stat-label">수집 시즌 범위</span>
+                    <span class="stat-value" id="kpiSeasonRange">-</span>
+                    <span class="stat-sub" id="kpiSeasonCountSub">총 72개 시즌 보유</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- MAIN TAB CONTENTS -->
+
+        <!-- 1. Dashboard View -->
+        <main class="tab-content" id="tab-dashboard">
+            <div class="charts-grid">
+                <div class="chart-card">
+                    <div class="chart-header">
+                        <div class="chart-title">
+                            <i class="fa-solid fa-ranking-star" style="color: #fbbf24;"></i>
+                            TOP 10 최고 가치 보유 아이템 (최신 시세 × 수량)
+                        </div>
+                    </div>
+                    <div class="chart-container">
+                        <canvas id="topItemsChart"></canvas>
+                    </div>
+                </div>
+
+                <div class="chart-card">
+                    <div class="chart-header">
+                        <div class="chart-title">
+                            <i class="fa-solid fa-chart-pie" style="color: #8b5cf6;"></i>
+                            등급별 자산 가치 비중
+                        </div>
+                    </div>
+                    <div class="chart-container">
+                        <canvas id="gradeChart"></canvas>
+                    </div>
+                </div>
+            </div>
+
+            <div class="charts-grid" style="grid-template-columns: 1fr 1fr;">
+                <div class="chart-card">
+                    <div class="chart-header">
+                        <div class="chart-title">
+                            <i class="fa-solid fa-tags" style="color: #06b6d4;"></i>
+                            카테고리별 자산 가치 비중
+                        </div>
+                    </div>
+                    <div class="chart-container">
+                        <canvas id="categoryChart"></canvas>
+                    </div>
+                </div>
+
+                <div class="chart-card">
+                    <div class="chart-header">
+                        <div class="chart-title">
+                            <i class="fa-solid fa-table-list" style="color: #10b981;"></i>
+                            등급별 요약 통계
+                        </div>
+                    </div>
+                    <div class="table-responsive" style="max-height: 250px;">
+                        <table class="data-table" id="gradeSummaryTable">
+                            <thead>
+                                <tr>
+                                    <th>등급</th>
+                                    <th>품목 수</th>
+                                    <th>보유 수량</th>
+                                    <th>추정 자산 가치</th>
+                                </tr>
+                            </thead>
+                            <tbody></tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <!-- 2. Item Explorer View -->
+        <main class="tab-content" id="tab-explorer" style="display: none;">
+            <div class="filter-bar">
+                <div class="search-box">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                    <input type="text" id="searchInput" placeholder="아이템 이름으로 검색 (예: 소우주, 안경, 블랙캣)">
+                </div>
+                
+                <div class="filter-group">
+                    <select id="filterCategory" class="filter-select">
+                        <option value="">전체 카테고리</option>
+                    </select>
+                    
+                    <select id="filterGrade" class="filter-select">
+                        <option value="">전체 등급</option>
+                        <option value="M">M (Master Label)</option>
+                        <option value="S">S (Special Label)</option>
+                        <option value="C">C (Choice Label)</option>
+                        <option value="G">G (General)</option>
+                    </select>
+
+                    <select id="filterSeason" class="filter-select">
+                        <option value="">전체 시즌</option>
+                    </select>
+
+                    <select id="sortBy" class="filter-select">
+                        <option value="total_val">정렬: 추정 가치순</option>
+                        <option value="latest_price">정렬: 최신 시세순</option>
+                        <option value="qty">정렬: 보유 수량순</option>
+                        <option value="name">정렬: 이름순</option>
+                        <option value="grade">정렬: 등급순</option>
+                    </select>
+
+                    <button class="toggle-btn active" id="btnOwnedOnly">
+                        <i class="fa-solid fa-check"></i> 보유중만 보기
+                    </button>
+
+                    <button class="toggle-btn" id="btnViewToggle" title="보기 방식 전환">
+                        <i class="fa-solid fa-border-all"></i> 카드뷰
+                    </button>
+                </div>
+            </div>
+
+            <div class="view-container">
+                <!-- Grid View -->
+                <div class="item-grid" id="itemGrid"></div>
+                <!-- Table View -->
+                <div class="table-responsive" id="itemTableWrapper" style="display: none;">
+                    <table class="data-table" id="itemTable">
+                        <thead>
+                            <tr>
+                                <th>등급</th>
+                                <th>아이템명</th>
+                                <th>카테고리</th>
+                                <th>보유 수량</th>
+                                <th>최신 시세</th>
+                                <th>총 추정 가치</th>
+                                <th>시세 기록일</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </div>
+        </main>
+
+        <!-- 3. Seasons View -->
+        <main class="tab-content" id="tab-seasons" style="display: none;">
+            <div class="season-grid" id="seasonGrid"></div>
+        </main>
+
+        <!-- 4. Sales Log View -->
+        <main class="tab-content" id="tab-sales" style="display: none;">
+            <div class="chart-card" style="margin-bottom: 20px;">
+                <div class="chart-header">
+                    <div class="chart-title">
+                        <i class="fa-solid fa-file-invoice-dollar" style="color: #10b981;"></i>
+                        아이템 판매 완료 내역
+                    </div>
+                </div>
+                <div class="table-responsive">
+                    <table class="data-table" id="salesTable">
+                        <thead>
+                            <tr>
+                                <th>판매일자</th>
+                                <th>아이템명</th>
+                                <th>카테고리</th>
+                                <th>등급</th>
+                                <th>판매 수량</th>
+                                <th>단당 판매가</th>
+                                <th>총 매출액</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </div>
+        </main>
+
+        <!-- 5. Data Entry View -->
+        <main class="tab-content" id="tab-entry" style="display: none;">
+            <div class="chart-card">
+                <div class="chart-header">
+                    <div class="chart-title">
+                        <i class="fa-solid fa-file-circle-plus" style="color: #fbbf24;"></i>
+                        신규 아이템 및 시세 / 재고 / 판매 등록
+                    </div>
+                </div>
+                
+                <form id="dataEntryForm" style="margin-top: 15px;">
+                    <div class="form-grid">
+                        <div class="form-group">
+                            <label for="entryName">아이템 이름 *</label>
+                            <input type="text" id="entryName" placeholder="예: 스타 벨 부츠" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="entryCategory">카테고리 *</label>
+                            <select id="entryCategory" required>
+                                <option value="모자">모자</option>
+                                <option value="무기">무기</option>
+                                <option value="한벌옷">한벌옷</option>
+                                <option value="상의">상의</option>
+                                <option value="하의">하의</option>
+                                <option value="망토">망토</option>
+                                <option value="신발">신발</option>
+                                <option value="장갑">장갑</option>
+                                <option value="얼굴장식">얼굴장식</option>
+                                <option value="눈장식">눈장식</option>
+                                <option value="귀고리">귀고리</option>
+                                <option value="반지">반지</option>
+                                <option value="소비">소비</option>
+                                <option value="의자">의자</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="entryGrade">등급 *</label>
+                            <select id="entryGrade" required>
+                                <option value="G">G (General)</option>
+                                <option value="S">S (Special Label)</option>
+                                <option value="M">M (Master Label)</option>
+                                <option value="C">C (Choice Label)</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="entrySeason">시즌 (숫자)</label>
+                            <input type="number" id="entrySeason" value="159" placeholder="예: 159">
+                        </div>
+                        <div class="form-group">
+                            <label for="entryQuantity">획득/추가 수량</label>
+                            <input type="number" id="entryQuantity" value="1" placeholder="예: 1">
+                        </div>
+                        <div class="form-group">
+                            <label for="entryPrice">현재 시세 (메소)</label>
+                            <input type="number" id="entryPrice" placeholder="예: 2500000000">
+                        </div>
+                        <div class="form-group">
+                            <label for="entryDate">날짜</label>
+                            <input type="date" id="entryDate">
+                        </div>
+                        <div class="form-group">
+                            <label for="adminPassword" style="color: #fbbf24;"><i class="fa-solid fa-lock"></i> 관리자 암호 *</label>
+                            <input type="password" id="adminPassword" placeholder="관리자 비밀번호 입력" required>
+                        </div>
+                    </div>
+                    <button type="submit" class="btn-primary">
+                        <i class="fa-solid fa-paper-plane"></i> DB 등록 반영하기
+                    </button>
+                </form>
+            </div>
+        </main>
+    </div>
+
+    <!-- ITEM DETAIL MODAL -->
+    <div class="modal-overlay" id="itemModal">
+        <div class="modal-container">
+            <button class="modal-close" id="modalCloseBtn"><i class="fa-solid fa-xmark"></i></button>
+            <div class="modal-header-info" style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+                <span class="grade-badge" id="modalGradeBadge">S</span>
+                <span class="category-tag" id="modalCategoryTag">한벌옷</span>
+                <h2 class="modal-title" id="modalItemName" style="flex: 1;">아이템 정보</h2>
+                <div style="display: flex; align-items: center; gap: 8px;">
+                    <label for="modalGradeSelect" style="font-size: 12px; color: #94a3b8;">등급 변경:</label>
+                    <select id="modalGradeSelect" class="filter-select" style="padding: 4px 8px; font-size: 12px;">
+                        <option value="G">G (General)</option>
+                        <option value="S">S (Special Label)</option>
+                        <option value="M">M (Master Label)</option>
+                        <option value="C">C (Choice Label)</option>
+                    </select>
+                </div>
+            </div>
+            
+            <div class="stats-grid" style="grid-template-columns: repeat(3, 1fr); margin-bottom: 20px;">
+                <div class="stat-card" style="padding: 12px;">
+                    <div class="stat-content">
+                        <span class="stat-label">최신 시세</span>
+                        <span class="stat-value" id="modalLatestPrice" style="font-size: 16px; color: #fbbf24;">-</span>
+                    </div>
+                </div>
+                <div class="stat-card" style="padding: 12px;">
+                    <div class="stat-content">
+                        <span class="stat-label">보유 수량</span>
+                        <span class="stat-value" id="modalTotalQty" style="font-size: 16px; color: #06b6d4;">-</span>
+                    </div>
+                </div>
+                <div class="stat-card" style="padding: 12px;">
+                    <div class="stat-content">
+                        <span class="stat-label">총 추정 가치</span>
+                        <span class="stat-value" id="modalTotalVal" style="font-size: 16px; color: #10b981;">-</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Price Chart in Modal -->
+            <div class="chart-card" style="margin-bottom: 20px; padding: 16px;">
+                <div class="chart-title" style="margin-bottom: 12px; font-size: 14px;">
+                    <i class="fa-solid fa-chart-line" style="color: #fbbf24;"></i> 날짜별 시세 변동 추이
+                </div>
+                <div style="position: relative; height: 220px;">
+                    <canvas id="priceHistoryChart"></canvas>
+                </div>
+            </div>
+
+            <!-- Inventory Breakdown & Sales -->
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px;">
+                <div class="chart-card" style="padding: 16px;">
+                    <div class="chart-title" style="margin-bottom: 10px; font-size: 14px;">
+                        <i class="fa-solid fa-boxes-packing" style="color: #06b6d4;"></i> 시즌별 보유 현황
+                    </div>
+                    <div id="modalInventoryList" style="max-height: 140px; overflow-y: auto; font-size: 13px;"></div>
+                </div>
+
+                <div class="chart-card" style="padding: 16px;">
+                    <div class="chart-title" style="margin-bottom: 10px; font-size: 14px;">
+                        <i class="fa-solid fa-receipt" style="color: #10b981;"></i> 판매 기록
+                    </div>
+                    <div id="modalSalesList" style="max-height: 140px; overflow-y: auto; font-size: 13px;"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- JS -->
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>
