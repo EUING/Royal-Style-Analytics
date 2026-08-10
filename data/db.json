@@ -2,8 +2,8 @@
   "metadata": {
     "total_items": 962,
     "total_quantity": 2337,
-    "total_inventory_val": 534091821983,
-    "formatted_inventory_val": "5,340억 9,182만 메소",
+    "total_inventory_val": 546226250391,
+    "formatted_inventory_val": "5,462억 2,625만 메소",
     "total_sales_revenue": 9468088888,
     "formatted_sales_revenue": "94억 6,808만 메소",
     "total_sales_count": 12,
@@ -206,20 +206,6 @@
       "formatted_total_val": "60억 메소"
     },
     {
-      "id": 847,
-      "name": "파핑 스카이 캡",
-      "category": "모자",
-      "grade": "S",
-      "qty": 3,
-      "season_count": 1,
-      "seasons": "145",
-      "latest_price": 2000000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 6000000000,
-      "formatted_price": "20억 메소",
-      "formatted_total_val": "60억 메소"
-    },
-    {
       "id": 145,
       "name": "환상 에스텔 (남)",
       "category": "한벌옷",
@@ -232,6 +218,20 @@
       "total_val": 5580000000,
       "formatted_price": "9억 3,000만 메소",
       "formatted_total_val": "55억 8,000만 메소"
+    },
+    {
+      "id": 847,
+      "name": "파핑 스카이 캡",
+      "category": "모자",
+      "grade": "S",
+      "qty": 3,
+      "season_count": 1,
+      "seasons": "145",
+      "latest_price": 1840000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 5520000000,
+      "formatted_price": "18억 4,000만 메소",
+      "formatted_total_val": "55억 2,000만 메소"
     },
     {
       "id": 670,
@@ -372,6 +372,20 @@
       "total_val": 3920000000,
       "formatted_price": "9억 8,000만 메소",
       "formatted_total_val": "39억 2,000만 메소"
+    },
+    {
+      "id": 809,
+      "name": "호수 요정 활",
+      "category": "무기",
+      "grade": "G",
+      "qty": 3,
+      "season_count": 1,
+      "seasons": "143",
+      "latest_price": 1300000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 3900000000,
+      "formatted_price": "13억 메소",
+      "formatted_total_val": "39억 메소"
     },
     {
       "id": 430,
@@ -598,20 +612,6 @@
       "formatted_total_val": "30억 메소"
     },
     {
-      "id": 766,
-      "name": "레이디 쿠키 케이프 (여)",
-      "category": "한벌옷",
-      "grade": "S",
-      "qty": 2,
-      "season_count": 1,
-      "seasons": "140",
-      "latest_price": 1400000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 2800000000,
-      "formatted_price": "14억 메소",
-      "formatted_total_val": "28억 메소"
-    },
-    {
       "id": 482,
       "name": "핼리오스 토이 컬렉터 (남)",
       "category": "한벌옷",
@@ -780,6 +780,48 @@
       "formatted_total_val": "24억 8,000만 메소"
     },
     {
+      "id": 766,
+      "name": "레이디 쿠키 케이프 (여)",
+      "category": "한벌옷",
+      "grade": "S",
+      "qty": 2,
+      "season_count": 1,
+      "seasons": "140",
+      "latest_price": 1200000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 2400000000,
+      "formatted_price": "12억 메소",
+      "formatted_total_val": "24억 메소"
+    },
+    {
+      "id": 778,
+      "name": "짤랑 달걀 캡",
+      "category": "모자",
+      "grade": "S",
+      "qty": 3,
+      "season_count": 1,
+      "seasons": "141",
+      "latest_price": 750000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 2250000000,
+      "formatted_price": "7억 5,000만 메소",
+      "formatted_total_val": "22억 5,000만 메소"
+    },
+    {
+      "id": 801,
+      "name": "호수의 보석",
+      "category": "모자",
+      "grade": "G",
+      "qty": 3,
+      "season_count": 1,
+      "seasons": "143",
+      "latest_price": 747474747,
+      "latest_price_date": "2026-08-10",
+      "total_val": 2242424241,
+      "formatted_price": "7억 4,747만 메소",
+      "formatted_total_val": "22억 4,242만 메소"
+    },
+    {
       "id": 672,
       "name": "스포티 익스플로러",
       "category": "망토",
@@ -792,20 +834,6 @@
       "total_val": 2200000000,
       "formatted_price": "22억 메소",
       "formatted_total_val": "22억 메소"
-    },
-    {
-      "id": 778,
-      "name": "짤랑 달걀 캡",
-      "category": "모자",
-      "grade": "S",
-      "qty": 3,
-      "season_count": 1,
-      "seasons": "141",
-      "latest_price": 730000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 2190000000,
-      "formatted_price": "7억 3,000만 메소",
-      "formatted_total_val": "21억 9,000만 메소"
     },
     {
       "id": 346,
@@ -1256,6 +1284,20 @@
       "formatted_total_val": "17억 6,000만 메소"
     },
     {
+      "id": 751,
+      "name": "빛바랜 절망",
+      "category": "망토",
+      "grade": "S",
+      "qty": 2,
+      "season_count": 1,
+      "seasons": "139",
+      "latest_price": 850000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 1700000000,
+      "formatted_price": "8억 5,000만 메소",
+      "formatted_total_val": "17억 메소"
+    },
+    {
       "id": 1104,
       "name": "즐거운 여름방학 (여)",
       "category": "한벌옷",
@@ -1268,6 +1310,20 @@
       "total_val": 1693333332,
       "formatted_price": "5억 6,444만 메소",
       "formatted_total_val": "16억 9,333만 메소"
+    },
+    {
+      "id": 829,
+      "name": "반디 여울 (남)",
+      "category": "한벌옷",
+      "grade": "S",
+      "qty": 3,
+      "season_count": 1,
+      "seasons": "144",
+      "latest_price": 539999999,
+      "latest_price_date": "2026-08-10",
+      "total_val": 1619999997,
+      "formatted_price": "5억 3,999만 메소",
+      "formatted_total_val": "16억 1,999만 메소"
     },
     {
       "id": 342,
@@ -1296,6 +1352,20 @@
       "total_val": 1600000000,
       "formatted_price": "8억 메소",
       "formatted_total_val": "16억 메소"
+    },
+    {
+      "id": 779,
+      "name": "짤랑 달걀 운동화",
+      "category": "신발",
+      "grade": "S",
+      "qty": 3,
+      "season_count": 1,
+      "seasons": "141",
+      "latest_price": 522222222,
+      "latest_price_date": "2026-08-10",
+      "total_val": 1566666666,
+      "formatted_price": "5억 2,222만 메소",
+      "formatted_total_val": "15억 6,666만 메소"
     },
     {
       "id": 422,
@@ -1704,48 +1774,6 @@
       "formatted_total_val": "15억 메소"
     },
     {
-      "id": 748,
-      "name": "절망 마스크",
-      "category": "모자",
-      "grade": "S",
-      "qty": 3,
-      "season_count": 1,
-      "seasons": "139",
-      "latest_price": 500000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 1500000000,
-      "formatted_price": "5억 메소",
-      "formatted_total_val": "15억 메소"
-    },
-    {
-      "id": 779,
-      "name": "짤랑 달걀 운동화",
-      "category": "신발",
-      "grade": "S",
-      "qty": 3,
-      "season_count": 1,
-      "seasons": "141",
-      "latest_price": 500000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 1500000000,
-      "formatted_price": "5억 메소",
-      "formatted_total_val": "15억 메소"
-    },
-    {
-      "id": 829,
-      "name": "반디 여울 (남)",
-      "category": "한벌옷",
-      "grade": "S",
-      "qty": 3,
-      "season_count": 1,
-      "seasons": "144",
-      "latest_price": 500000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 1500000000,
-      "formatted_price": "5억 메소",
-      "formatted_total_val": "15억 메소"
-    },
-    {
       "id": 780,
       "name": "짤랑짤랑 스타",
       "category": "망토",
@@ -1753,11 +1781,25 @@
       "qty": 2,
       "season_count": 1,
       "seasons": "141",
-      "latest_price": 730000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 1460000000,
-      "formatted_price": "7억 3,000만 메소",
-      "formatted_total_val": "14억 6,000만 메소"
+      "latest_price": 750000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 1500000000,
+      "formatted_price": "7억 5,000만 메소",
+      "formatted_total_val": "15억 메소"
+    },
+    {
+      "id": 787,
+      "name": "보안 매니저 (여)",
+      "category": "한벌옷",
+      "grade": "G",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "142",
+      "latest_price": 1500000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 1500000000,
+      "formatted_price": "15억 메소",
+      "formatted_total_val": "15억 메소"
     },
     {
       "id": 349,
@@ -1858,6 +1900,20 @@
       "formatted_total_val": "13억 메소"
     },
     {
+      "id": 748,
+      "name": "절망 마스크",
+      "category": "모자",
+      "grade": "S",
+      "qty": 3,
+      "season_count": 1,
+      "seasons": "139",
+      "latest_price": 430000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 1290000000,
+      "formatted_price": "4억 3,000만 메소",
+      "formatted_total_val": "12억 9,000만 메소"
+    },
+    {
       "id": 1067,
       "name": "에픽 페이드인",
       "category": "신발",
@@ -1870,6 +1926,20 @@
       "total_val": 1289999997,
       "formatted_price": "4억 2,999만 메소",
       "formatted_total_val": "12억 8,999만 메소"
+    },
+    {
+      "id": 810,
+      "name": "스피릿 코드",
+      "category": "모자",
+      "grade": "S",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "143",
+      "latest_price": 1267777777,
+      "latest_price_date": "2026-08-10",
+      "total_val": 1267777777,
+      "formatted_price": "12억 6,777만 메소",
+      "formatted_total_val": "12억 6,777만 메소"
     },
     {
       "id": 1039,
@@ -1928,17 +1998,17 @@
       "formatted_total_val": "12억 메소"
     },
     {
-      "id": 809,
-      "name": "호수 요정 활",
-      "category": "무기",
-      "grade": "G",
-      "qty": 3,
+      "id": 848,
+      "name": "스트리트 보이즈 (남)",
+      "category": "한벌옷",
+      "grade": "S",
+      "qty": 1,
       "season_count": 1,
-      "seasons": "143",
-      "latest_price": 400000000,
-      "latest_price_date": "2026-03-03",
+      "seasons": "145",
+      "latest_price": 1200000000,
+      "latest_price_date": "2026-08-10",
       "total_val": 1200000000,
-      "formatted_price": "4억 메소",
+      "formatted_price": "12억 메소",
       "formatted_total_val": "12억 메소"
     },
     {
@@ -1998,6 +2068,20 @@
       "formatted_total_val": "11억 7,400만 메소"
     },
     {
+      "id": 812,
+      "name": "레드 스피릿",
+      "category": "망토",
+      "grade": "S",
+      "qty": 2,
+      "season_count": 1,
+      "seasons": "143",
+      "latest_price": 565000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 1130000000,
+      "formatted_price": "5억 6,500만 메소",
+      "formatted_total_val": "11억 3,000만 메소"
+    },
+    {
       "id": 51,
       "name": "미스터리 클루 캡",
       "category": "모자",
@@ -2010,6 +2094,20 @@
       "total_val": 1120000000,
       "formatted_price": "5억 6,000만 메소",
       "formatted_total_val": "11억 2,000만 메소"
+    },
+    {
+      "id": 813,
+      "name": "코드리스",
+      "category": "무기",
+      "grade": "S",
+      "qty": 2,
+      "season_count": 1,
+      "seasons": "143",
+      "latest_price": 555555555,
+      "latest_price_date": "2026-08-10",
+      "total_val": 1111111110,
+      "formatted_price": "5억 5,555만 메소",
+      "formatted_total_val": "11억 1,111만 메소"
     },
     {
       "id": 36,
@@ -2054,6 +2152,20 @@
       "formatted_total_val": "11억 메소"
     },
     {
+      "id": 792,
+      "name": "백곰 주인장 모자",
+      "category": "모자",
+      "grade": "S",
+      "qty": 2,
+      "season_count": 1,
+      "seasons": "142",
+      "latest_price": 548999988,
+      "latest_price_date": "2026-08-10",
+      "total_val": 1097999976,
+      "formatted_price": "5억 4,899만 메소",
+      "formatted_total_val": "10억 9,799만 메소"
+    },
+    {
       "id": 903,
       "name": "컬러 컷 핑거팝",
       "category": "무기",
@@ -2066,6 +2178,20 @@
       "total_val": 1080000000,
       "formatted_price": "5억 4,000만 메소",
       "formatted_total_val": "10억 8,000만 메소"
+    },
+    {
+      "id": 793,
+      "name": "백곰 주인장",
+      "category": "한벌옷",
+      "grade": "S",
+      "qty": 2,
+      "season_count": 1,
+      "seasons": "142",
+      "latest_price": 530000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 1060000000,
+      "formatted_price": "5억 3,000만 메소",
+      "formatted_total_val": "10억 6,000만 메소"
     },
     {
       "id": 101,
@@ -2726,20 +2852,6 @@
       "formatted_total_val": "10억 메소"
     },
     {
-      "id": 751,
-      "name": "빛바랜 절망",
-      "category": "망토",
-      "grade": "S",
-      "qty": 2,
-      "season_count": 1,
-      "seasons": "139",
-      "latest_price": 500000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 1000000000,
-      "formatted_price": "5억 메소",
-      "formatted_total_val": "10억 메소"
-    },
-    {
       "id": 752,
       "name": "절망의 치료사",
       "category": "무기",
@@ -2747,39 +2859,11 @@
       "qty": 2,
       "season_count": 1,
       "seasons": "139",
-      "latest_price": 500000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 1000000000,
-      "formatted_price": "5억 메소",
-      "formatted_total_val": "10억 메소"
-    },
-    {
-      "id": 767,
-      "name": "스노우 쿠키 부츠",
-      "category": "신발",
-      "grade": "S",
-      "qty": 2,
-      "season_count": 1,
-      "seasons": "140",
-      "latest_price": 500000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 1000000000,
-      "formatted_price": "5억 메소",
-      "formatted_total_val": "10억 메소"
-    },
-    {
-      "id": 768,
-      "name": "동동 스노우 쿠키",
-      "category": "망토",
-      "grade": "S",
-      "qty": 2,
-      "season_count": 1,
-      "seasons": "140",
-      "latest_price": 500000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 1000000000,
-      "formatted_price": "5억 메소",
-      "formatted_total_val": "10억 메소"
+      "latest_price": 499000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 998000000,
+      "formatted_price": "4억 9,900만 메소",
+      "formatted_total_val": "9억 9,800만 메소"
     },
     {
       "id": 769,
@@ -2789,95 +2873,11 @@
       "qty": 2,
       "season_count": 1,
       "seasons": "140",
-      "latest_price": 500000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 1000000000,
-      "formatted_price": "5억 메소",
-      "formatted_total_val": "10억 메소"
-    },
-    {
-      "id": 792,
-      "name": "백곰 주인장 모자",
-      "category": "모자",
-      "grade": "S",
-      "qty": 2,
-      "season_count": 1,
-      "seasons": "142",
-      "latest_price": 500000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 1000000000,
-      "formatted_price": "5억 메소",
-      "formatted_total_val": "10억 메소"
-    },
-    {
-      "id": 793,
-      "name": "백곰 주인장",
-      "category": "한벌옷",
-      "grade": "S",
-      "qty": 2,
-      "season_count": 1,
-      "seasons": "142",
-      "latest_price": 500000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 1000000000,
-      "formatted_price": "5억 메소",
-      "formatted_total_val": "10억 메소"
-    },
-    {
-      "id": 795,
-      "name": "백곰 봐주세요",
-      "category": "망토",
-      "grade": "S",
-      "qty": 2,
-      "season_count": 1,
-      "seasons": "142",
-      "latest_price": 500000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 1000000000,
-      "formatted_price": "5억 메소",
-      "formatted_total_val": "10억 메소"
-    },
-    {
-      "id": 812,
-      "name": "레드 스피릿",
-      "category": "망토",
-      "grade": "S",
-      "qty": 2,
-      "season_count": 1,
-      "seasons": "143",
-      "latest_price": 500000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 1000000000,
-      "formatted_price": "5억 메소",
-      "formatted_total_val": "10억 메소"
-    },
-    {
-      "id": 813,
-      "name": "코드리스",
-      "category": "무기",
-      "grade": "S",
-      "qty": 2,
-      "season_count": 1,
-      "seasons": "143",
-      "latest_price": 500000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 1000000000,
-      "formatted_price": "5억 메소",
-      "formatted_total_val": "10억 메소"
-    },
-    {
-      "id": 849,
-      "name": "하이틴 롤러스케이트",
-      "category": "신발",
-      "grade": "S",
-      "qty": 2,
-      "season_count": 1,
-      "seasons": "145",
-      "latest_price": 500000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 1000000000,
-      "formatted_price": "5억 메소",
-      "formatted_total_val": "10억 메소"
+      "latest_price": 498888888,
+      "latest_price_date": "2026-08-10",
+      "total_val": 997777776,
+      "formatted_price": "4억 9,888만 메소",
+      "formatted_total_val": "9억 9,777만 메소"
     },
     {
       "id": 935,
@@ -2936,6 +2936,76 @@
       "formatted_total_val": "9억 6,000만 메소"
     },
     {
+      "id": 820,
+      "name": "핑쿵 코끼리 인형 옷",
+      "category": "한벌옷",
+      "grade": "G",
+      "qty": 2,
+      "season_count": 1,
+      "seasons": "144",
+      "latest_price": 477777777,
+      "latest_price_date": "2026-08-10",
+      "total_val": 955555554,
+      "formatted_price": "4억 7,777만 메소",
+      "formatted_total_val": "9억 5,555만 메소"
+    },
+    {
+      "id": 795,
+      "name": "백곰 봐주세요",
+      "category": "망토",
+      "grade": "S",
+      "qty": 2,
+      "season_count": 1,
+      "seasons": "142",
+      "latest_price": 475000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 950000000,
+      "formatted_price": "4억 7,500만 메소",
+      "formatted_total_val": "9억 5,000만 메소"
+    },
+    {
+      "id": 750,
+      "name": "가시걸음 (남)",
+      "category": "신발",
+      "grade": "S",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "139",
+      "latest_price": 940000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 940000000,
+      "formatted_price": "9억 4,000만 메소",
+      "formatted_total_val": "9억 4,000만 메소"
+    },
+    {
+      "id": 768,
+      "name": "동동 스노우 쿠키",
+      "category": "망토",
+      "grade": "S",
+      "qty": 2,
+      "season_count": 1,
+      "seasons": "140",
+      "latest_price": 467777777,
+      "latest_price_date": "2026-08-10",
+      "total_val": 935555554,
+      "formatted_price": "4억 6,777만 메소",
+      "formatted_total_val": "9억 3,555만 메소"
+    },
+    {
+      "id": 827,
+      "name": "월뢰천",
+      "category": "무기",
+      "grade": "G",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "144",
+      "latest_price": 933333333,
+      "latest_price_date": "2026-08-10",
+      "total_val": 933333333,
+      "formatted_price": "9억 3,333만 메소",
+      "formatted_total_val": "9억 3,333만 메소"
+    },
+    {
       "id": 333,
       "name": "어둠의 흉터",
       "category": "무기",
@@ -2962,6 +3032,20 @@
       "total_val": 911111110,
       "formatted_price": "4억 5,555만 메소",
       "formatted_total_val": "9억 1,111만 메소"
+    },
+    {
+      "id": 849,
+      "name": "하이틴 롤러스케이트",
+      "category": "신발",
+      "grade": "S",
+      "qty": 2,
+      "season_count": 1,
+      "seasons": "145",
+      "latest_price": 451111111,
+      "latest_price_date": "2026-08-10",
+      "total_val": 902222222,
+      "formatted_price": "4억 5,111만 메소",
+      "formatted_total_val": "9억 222만 메소"
     },
     {
       "id": 555,
@@ -3076,6 +3160,20 @@
       "formatted_total_val": "8억 8,222만 메소"
     },
     {
+      "id": 767,
+      "name": "스노우 쿠키 부츠",
+      "category": "신발",
+      "grade": "S",
+      "qty": 2,
+      "season_count": 1,
+      "seasons": "140",
+      "latest_price": 440000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 880000000,
+      "formatted_price": "4억 4,000만 메소",
+      "formatted_total_val": "8억 8,000만 메소"
+    },
+    {
       "id": 88,
       "name": "인형 라벤더",
       "category": "얼굴장식",
@@ -3097,20 +3195,6 @@
       "qty": 1,
       "season_count": 1,
       "seasons": "120",
-      "latest_price": 850000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 850000000,
-      "formatted_price": "8억 5,000만 메소",
-      "formatted_total_val": "8억 5,000만 메소"
-    },
-    {
-      "id": 749,
-      "name": "고요한 절망 (남)",
-      "category": "한벌옷",
-      "grade": "S",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "139",
       "latest_price": 850000000,
       "latest_price_date": "2026-03-03",
       "total_val": 850000000,
@@ -3174,6 +3258,20 @@
       "formatted_total_val": "8억 메소"
     },
     {
+      "id": 749,
+      "name": "고요한 절망 (남)",
+      "category": "한벌옷",
+      "grade": "S",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "139",
+      "latest_price": 799000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 799000000,
+      "formatted_price": "7억 9,900만 메소",
+      "formatted_total_val": "7억 9,900만 메소"
+    },
+    {
       "id": 519,
       "name": "러버블 멜로우 (남)",
       "category": "한벌옷",
@@ -3214,6 +3312,20 @@
       "total_val": 780000000,
       "formatted_price": "3억 9,000만 메소",
       "formatted_total_val": "7억 8,000만 메소"
+    },
+    {
+      "id": 794,
+      "name": "백곰 주인장 구두",
+      "category": "신발",
+      "grade": "S",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "142",
+      "latest_price": 777777777,
+      "latest_price_date": "2026-08-10",
+      "total_val": 777777777,
+      "formatted_price": "7억 7,777만 메소",
+      "formatted_total_val": "7억 7,777만 메소"
     },
     {
       "id": 957,
@@ -3300,6 +3412,20 @@
       "formatted_total_val": "7억 3,000만 메소"
     },
     {
+      "id": 831,
+      "name": "포실 반디",
+      "category": "망토",
+      "grade": "S",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "144",
+      "latest_price": 722222222,
+      "latest_price_date": "2026-08-10",
+      "total_val": 722222222,
+      "formatted_price": "7억 2,222만 메소",
+      "formatted_total_val": "7억 2,222만 메소"
+    },
+    {
       "id": 380,
       "name": "은하 음악회",
       "category": "망토",
@@ -3335,34 +3461,6 @@
       "qty": 1,
       "season_count": 1,
       "seasons": "133",
-      "latest_price": 700000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 700000000,
-      "formatted_price": "7억 메소",
-      "formatted_total_val": "7억 메소"
-    },
-    {
-      "id": 787,
-      "name": "보안 매니저 (여)",
-      "category": "한벌옷",
-      "grade": "G",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "142",
-      "latest_price": 700000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 700000000,
-      "formatted_price": "7억 메소",
-      "formatted_total_val": "7억 메소"
-    },
-    {
-      "id": 848,
-      "name": "스트리트 보이즈 (남)",
-      "category": "한벌옷",
-      "grade": "S",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "145",
       "latest_price": 700000000,
       "latest_price_date": "2026-03-03",
       "total_val": 700000000,
@@ -3518,7 +3616,21 @@
       "season_count": 1,
       "seasons": "142",
       "latest_price": 600000000,
-      "latest_price_date": "2026-03-03",
+      "latest_price_date": "2026-08-10",
+      "total_val": 600000000,
+      "formatted_price": "6억 메소",
+      "formatted_total_val": "6억 메소"
+    },
+    {
+      "id": 850,
+      "name": "그래피티 페인터",
+      "category": "무기",
+      "grade": "S",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "145",
+      "latest_price": 600000000,
+      "latest_price_date": "2026-08-10",
       "total_val": 600000000,
       "formatted_price": "6억 메소",
       "formatted_total_val": "6억 메소"
@@ -3538,6 +3650,48 @@
       "formatted_total_val": "5억 9,999만 메소"
     },
     {
+      "id": 755,
+      "name": "그림자 연극 리본",
+      "category": "모자",
+      "grade": "G",
+      "qty": 2,
+      "season_count": 1,
+      "seasons": "140",
+      "latest_price": 299900000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 599800000,
+      "formatted_price": "2억 9,990만 메소",
+      "formatted_total_val": "5억 9,980만 메소"
+    },
+    {
+      "id": 760,
+      "name": "그림자 연극 구두",
+      "category": "신발",
+      "grade": "G",
+      "qty": 3,
+      "season_count": 1,
+      "seasons": "140",
+      "latest_price": 199000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 597000000,
+      "formatted_price": "1억 9,900만 메소",
+      "formatted_total_val": "5억 9,700만 메소"
+    },
+    {
+      "id": 796,
+      "name": "백곰 수선 클립",
+      "category": "무기",
+      "grade": "S",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "142",
+      "latest_price": 597000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 597000000,
+      "formatted_price": "5억 9,700만 메소",
+      "formatted_total_val": "5억 9,700만 메소"
+    },
+    {
       "id": 873,
       "name": "크림 쇼콜라 (남)",
       "category": "한벌옷",
@@ -3550,6 +3704,20 @@
       "total_val": 596865355,
       "formatted_price": "5억 9,686만 메소",
       "formatted_total_val": "5억 9,686만 메소"
+    },
+    {
+      "id": 811,
+      "name": "스피릿 코스모스 (남)",
+      "category": "한벌옷",
+      "grade": "S",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "143",
+      "latest_price": 566666666,
+      "latest_price_date": "2026-08-10",
+      "total_val": 566666666,
+      "formatted_price": "5억 6,666만 메소",
+      "formatted_total_val": "5억 6,666만 메소"
     },
     {
       "id": 977,
@@ -3608,20 +3776,6 @@
       "formatted_total_val": "5억 4,000만 메소"
     },
     {
-      "id": 827,
-      "name": "월뢰천",
-      "category": "무기",
-      "grade": "G",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "144",
-      "latest_price": 540000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 540000000,
-      "formatted_price": "5억 4,000만 메소",
-      "formatted_total_val": "5억 4,000만 메소"
-    },
-    {
       "id": 978,
       "name": "찍찍이 음악단원",
       "category": "망토",
@@ -3634,6 +3788,20 @@
       "total_val": 533333333,
       "formatted_price": "5억 3,333만 메소",
       "formatted_total_val": "5억 3,333만 메소"
+    },
+    {
+      "id": 781,
+      "name": "달걀 마라카스",
+      "category": "무기",
+      "grade": "S",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "141",
+      "latest_price": 528000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 528000000,
+      "formatted_price": "5억 2,800만 메소",
+      "formatted_total_val": "5억 2,800만 메소"
     },
     {
       "id": 1033,
@@ -3662,6 +3830,20 @@
       "total_val": 520000000,
       "formatted_price": "5억 2,000만 메소",
       "formatted_total_val": "5억 2,000만 메소"
+    },
+    {
+      "id": 765,
+      "name": "머랭 쿠키",
+      "category": "모자",
+      "grade": "S",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "140",
+      "latest_price": 511111111,
+      "latest_price_date": "2026-08-10",
+      "total_val": 511111111,
+      "formatted_price": "5억 1,111만 메소",
+      "formatted_total_val": "5억 1,111만 메소"
     },
     {
       "id": 52,
@@ -4294,146 +4476,6 @@
       "formatted_total_val": "5억 메소"
     },
     {
-      "id": 750,
-      "name": "가시걸음 (남)",
-      "category": "신발",
-      "grade": "S",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "139",
-      "latest_price": 500000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 500000000,
-      "formatted_price": "5억 메소",
-      "formatted_total_val": "5억 메소"
-    },
-    {
-      "id": 765,
-      "name": "머랭 쿠키",
-      "category": "모자",
-      "grade": "S",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "140",
-      "latest_price": 500000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 500000000,
-      "formatted_price": "5억 메소",
-      "formatted_total_val": "5억 메소"
-    },
-    {
-      "id": 781,
-      "name": "달걀 마라카스",
-      "category": "무기",
-      "grade": "S",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "141",
-      "latest_price": 500000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 500000000,
-      "formatted_price": "5억 메소",
-      "formatted_total_val": "5억 메소"
-    },
-    {
-      "id": 794,
-      "name": "백곰 주인장 구두",
-      "category": "신발",
-      "grade": "S",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "142",
-      "latest_price": 500000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 500000000,
-      "formatted_price": "5억 메소",
-      "formatted_total_val": "5억 메소"
-    },
-    {
-      "id": 796,
-      "name": "백곰 수선 클립",
-      "category": "무기",
-      "grade": "S",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "142",
-      "latest_price": 500000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 500000000,
-      "formatted_price": "5억 메소",
-      "formatted_total_val": "5억 메소"
-    },
-    {
-      "id": 810,
-      "name": "스피릿 코드",
-      "category": "모자",
-      "grade": "S",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "143",
-      "latest_price": 500000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 500000000,
-      "formatted_price": "5억 메소",
-      "formatted_total_val": "5억 메소"
-    },
-    {
-      "id": 811,
-      "name": "스피릿 코스모스 (남)",
-      "category": "한벌옷",
-      "grade": "S",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "143",
-      "latest_price": 500000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 500000000,
-      "formatted_price": "5억 메소",
-      "formatted_total_val": "5억 메소"
-    },
-    {
-      "id": 830,
-      "name": "반디 별빛",
-      "category": "신발",
-      "grade": "S",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "144",
-      "latest_price": 500000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 500000000,
-      "formatted_price": "5억 메소",
-      "formatted_total_val": "5억 메소"
-    },
-    {
-      "id": 831,
-      "name": "포실 반디",
-      "category": "망토",
-      "grade": "S",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "144",
-      "latest_price": 500000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 500000000,
-      "formatted_price": "5억 메소",
-      "formatted_total_val": "5억 메소"
-    },
-    {
-      "id": 850,
-      "name": "그래피티 페인터",
-      "category": "무기",
-      "grade": "S",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "145",
-      "latest_price": 500000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 500000000,
-      "formatted_price": "5억 메소",
-      "formatted_total_val": "5억 메소"
-    },
-    {
       "id": 919,
       "name": "루나 플래시 (여)",
       "category": "한벌옷",
@@ -4460,6 +4502,20 @@
       "total_val": 495000000,
       "formatted_price": "4,500만 메소",
       "formatted_total_val": "4억 9,500만 메소"
+    },
+    {
+      "id": 830,
+      "name": "반디 별빛",
+      "category": "신발",
+      "grade": "S",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "144",
+      "latest_price": 489999999,
+      "latest_price_date": "2026-08-10",
+      "total_val": 489999999,
+      "formatted_price": "4억 8,999만 메소",
+      "formatted_total_val": "4억 8,999만 메소"
     },
     {
       "id": 46,
@@ -4588,6 +4644,34 @@
       "formatted_total_val": "4억 5,555만 메소"
     },
     {
+      "id": 783,
+      "name": "백스트리트 블랙",
+      "category": "모자",
+      "grade": "G",
+      "qty": 3,
+      "season_count": 1,
+      "seasons": "142",
+      "latest_price": 150000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 450000000,
+      "formatted_price": "1억 5,000만 메소",
+      "formatted_total_val": "4억 5,000만 메소"
+    },
+    {
+      "id": 799,
+      "name": "미니 하트",
+      "category": "모자",
+      "grade": "G",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "143",
+      "latest_price": 450000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 450000000,
+      "formatted_price": "4억 5,000만 메소",
+      "formatted_total_val": "4억 5,000만 메소"
+    },
+    {
       "id": 901,
       "name": "미니 베어 핀",
       "category": "모자",
@@ -4714,20 +4798,6 @@
       "formatted_total_val": "4억 메소"
     },
     {
-      "id": 799,
-      "name": "미니 하트",
-      "category": "모자",
-      "grade": "G",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "143",
-      "latest_price": 400000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 400000000,
-      "formatted_price": "4억 메소",
-      "formatted_total_val": "4억 메소"
-    },
-    {
       "id": 27,
       "name": "[BTS] 스완 드림 칭호 교환권",
       "category": "소비",
@@ -4756,32 +4826,18 @@
       "formatted_total_val": "3억 9,000만 메소"
     },
     {
-      "id": 789,
-      "name": "매니저 리본구두",
-      "category": "신발",
-      "grade": "G",
-      "qty": 3,
-      "season_count": 1,
-      "seasons": "142",
-      "latest_price": 130000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 390000000,
-      "formatted_price": "1억 3,000만 메소",
-      "formatted_total_val": "3억 9,000만 메소"
-    },
-    {
-      "id": 761,
-      "name": "눈곰돌이 목도리",
+      "id": 824,
+      "name": "슈바르츠 롱코트",
       "category": "망토",
       "grade": "G",
-      "qty": 2,
+      "qty": 1,
       "season_count": 1,
-      "seasons": "140",
-      "latest_price": 190000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 380000000,
-      "formatted_price": "1억 9,000만 메소",
-      "formatted_total_val": "3억 8,000만 메소"
+      "seasons": "144",
+      "latest_price": 369000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 369000000,
+      "formatted_price": "3억 6,900만 메소",
+      "formatted_total_val": "3억 6,900만 메소"
     },
     {
       "id": 500,
@@ -4812,6 +4868,20 @@
       "formatted_total_val": "3억 5,000만 메소"
     },
     {
+      "id": 776,
+      "name": "엔젤릭 그레이",
+      "category": "망토",
+      "grade": "G",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "141",
+      "latest_price": 349999999,
+      "latest_price_date": "2026-08-10",
+      "total_val": 349999999,
+      "formatted_price": "3억 4,999만 메소",
+      "formatted_total_val": "3억 4,999만 메소"
+    },
+    {
       "id": 259,
       "name": "붕대 눈가리개 블랙",
       "category": "눈장식",
@@ -4840,6 +4910,20 @@
       "formatted_total_val": "3억 4,000만 메소"
     },
     {
+      "id": 756,
+      "name": "아이 추워",
+      "category": "얼굴장식",
+      "grade": "G",
+      "qty": 2,
+      "season_count": 1,
+      "seasons": "140",
+      "latest_price": 170000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 340000000,
+      "formatted_price": "1억 7,000만 메소",
+      "formatted_total_val": "3억 4,000만 메소"
+    },
+    {
       "id": 30,
       "name": "[BLACKPINK] 크림 핑크 (남)",
       "category": "한벌옷",
@@ -4851,20 +4935,6 @@
       "latest_price_date": "2026-03-03",
       "total_val": 330000000,
       "formatted_price": "3억 3,000만 메소",
-      "formatted_total_val": "3억 3,000만 메소"
-    },
-    {
-      "id": 801,
-      "name": "호수의 보석",
-      "category": "모자",
-      "grade": "G",
-      "qty": 3,
-      "season_count": 1,
-      "seasons": "143",
-      "latest_price": 110000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 330000000,
-      "formatted_price": "1억 1,000만 메소",
       "formatted_total_val": "3억 3,000만 메소"
     },
     {
@@ -4952,18 +5022,18 @@
       "formatted_total_val": "3억 메소"
     },
     {
-      "id": 783,
-      "name": "백스트리트 블랙",
-      "category": "모자",
+      "id": 819,
+      "name": "월하미월 (남)",
+      "category": "한벌옷",
       "grade": "G",
       "qty": 3,
       "season_count": 1,
-      "seasons": "142",
-      "latest_price": 97000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 291000000,
-      "formatted_price": "9,700만 메소",
-      "formatted_total_val": "2억 9,100만 메소"
+      "seasons": "144",
+      "latest_price": 98989898,
+      "latest_price_date": "2026-08-10",
+      "total_val": 296969694,
+      "formatted_price": "9,898만 메소",
+      "formatted_total_val": "2억 9,696만 메소"
     },
     {
       "id": 757,
@@ -4973,11 +5043,11 @@
       "qty": 3,
       "season_count": 1,
       "seasons": "140",
-      "latest_price": 94000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 282000000,
-      "formatted_price": "9,400만 메소",
-      "formatted_total_val": "2억 8,200만 메소"
+      "latest_price": 95000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 285000000,
+      "formatted_price": "9,500만 메소",
+      "formatted_total_val": "2억 8,500만 메소"
     },
     {
       "id": 34,
@@ -5030,7 +5100,7 @@
       "season_count": 1,
       "seasons": "142",
       "latest_price": 55000000,
-      "latest_price_date": "2026-03-03",
+      "latest_price_date": "2026-08-10",
       "total_val": 275000000,
       "formatted_price": "5,500만 메소",
       "formatted_total_val": "2억 7,500만 메소"
@@ -5045,6 +5115,20 @@
       "seasons": "124",
       "latest_price": 90000000,
       "latest_price_date": "2026-03-03",
+      "total_val": 270000000,
+      "formatted_price": "9,000만 메소",
+      "formatted_total_val": "2억 7,000만 메소"
+    },
+    {
+      "id": 789,
+      "name": "매니저 리본구두",
+      "category": "신발",
+      "grade": "G",
+      "qty": 3,
+      "season_count": 1,
+      "seasons": "142",
+      "latest_price": 90000000,
+      "latest_price_date": "2026-08-10",
       "total_val": 270000000,
       "formatted_price": "9,000만 메소",
       "formatted_total_val": "2억 7,000만 메소"
@@ -5076,6 +5160,20 @@
       "total_val": 260000000,
       "formatted_price": "2억 6,000만 메소",
       "formatted_total_val": "2억 6,000만 메소"
+    },
+    {
+      "id": 771,
+      "name": "냄새가 났어!!",
+      "category": "얼굴장식",
+      "grade": "G",
+      "qty": 2,
+      "season_count": 1,
+      "seasons": "141",
+      "latest_price": 129000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 258000000,
+      "formatted_price": "1억 2,900만 메소",
+      "formatted_total_val": "2억 5,800만 메소"
     },
     {
       "id": 562,
@@ -5118,6 +5216,20 @@
       "total_val": 250000000,
       "formatted_price": "2억 5,000만 메소",
       "formatted_total_val": "2억 5,000만 메소"
+    },
+    {
+      "id": 761,
+      "name": "눈곰돌이 목도리",
+      "category": "망토",
+      "grade": "G",
+      "qty": 2,
+      "season_count": 1,
+      "seasons": "140",
+      "latest_price": 122222222,
+      "latest_price_date": "2026-08-10",
+      "total_val": 244444444,
+      "formatted_price": "1억 2,222만 메소",
+      "formatted_total_val": "2억 4,444만 메소"
     },
     {
       "id": 361,
@@ -5173,6 +5285,20 @@
       "latest_price_date": "2026-03-03",
       "total_val": 240000000,
       "formatted_price": "2억 4,000만 메소",
+      "formatted_total_val": "2억 4,000만 메소"
+    },
+    {
+      "id": 825,
+      "name": "먹그림자",
+      "category": "망토",
+      "grade": "G",
+      "qty": 3,
+      "season_count": 1,
+      "seasons": "144",
+      "latest_price": 80000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 240000000,
+      "formatted_price": "8,000만 메소",
       "formatted_total_val": "2억 4,000만 메소"
     },
     {
@@ -5372,6 +5498,20 @@
       "formatted_total_val": "2억 1,600만 메소"
     },
     {
+      "id": 834,
+      "name": "깨물기 없다 앙!",
+      "category": "얼굴장식",
+      "grade": "G",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "145",
+      "latest_price": 212222200,
+      "latest_price_date": "2026-08-10",
+      "total_val": 212222200,
+      "formatted_price": "2억 1,222만 메소",
+      "formatted_total_val": "2억 1,222만 메소"
+    },
+    {
       "id": 103,
       "name": "몽글 딸기 소년 (남)",
       "category": "한벌옷",
@@ -5397,20 +5537,6 @@
       "latest_price_date": "2026-03-03",
       "total_val": 210000000,
       "formatted_price": "7,000만 메소",
-      "formatted_total_val": "2억 1,000만 메소"
-    },
-    {
-      "id": 776,
-      "name": "엔젤릭 그레이",
-      "category": "망토",
-      "grade": "G",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "141",
-      "latest_price": 210000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 210000000,
-      "formatted_price": "2억 1,000만 메소",
       "formatted_total_val": "2억 1,000만 메소"
     },
     {
@@ -5484,20 +5610,6 @@
       "formatted_total_val": "2억 메소"
     },
     {
-      "id": 756,
-      "name": "아이 추워",
-      "category": "얼굴장식",
-      "grade": "G",
-      "qty": 2,
-      "season_count": 1,
-      "seasons": "140",
-      "latest_price": 100000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 200000000,
-      "formatted_price": "1억 메소",
-      "formatted_total_val": "2억 메소"
-    },
-    {
       "id": 488,
       "name": "굿나잇 퍼플 실내화",
       "category": "신발",
@@ -5510,6 +5622,20 @@
       "total_val": 198000000,
       "formatted_price": "6,600만 메소",
       "formatted_total_val": "1억 9,800만 메소"
+    },
+    {
+      "id": 798,
+      "name": "호수 잔물결",
+      "category": "모자",
+      "grade": "G",
+      "qty": 2,
+      "season_count": 1,
+      "seasons": "143",
+      "latest_price": 97777777,
+      "latest_price_date": "2026-08-10",
+      "total_val": 195555554,
+      "formatted_price": "9,777만 메소",
+      "formatted_total_val": "1억 9,555만 메소"
     },
     {
       "id": 151,
@@ -5722,18 +5848,18 @@
       "formatted_total_val": "1억 8,000만 메소"
     },
     {
-      "id": 798,
-      "name": "호수 잔물결",
-      "category": "모자",
+      "id": 823,
+      "name": "월하행적",
+      "category": "신발",
       "grade": "G",
       "qty": 2,
       "season_count": 1,
-      "seasons": "143",
-      "latest_price": 90000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 180000000,
-      "formatted_price": "9,000만 메소",
-      "formatted_total_val": "1억 8,000만 메소"
+      "seasons": "144",
+      "latest_price": 88888688,
+      "latest_price_date": "2026-08-10",
+      "total_val": 177777376,
+      "formatted_price": "8,888만 메소",
+      "formatted_total_val": "1억 7,777만 메소"
     },
     {
       "id": 150,
@@ -5946,6 +6072,20 @@
       "formatted_total_val": "1억 6,500만 메소"
     },
     {
+      "id": 816,
+      "name": "월하호",
+      "category": "모자",
+      "grade": "G",
+      "qty": 3,
+      "season_count": 1,
+      "seasons": "144",
+      "latest_price": 55000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 165000000,
+      "formatted_price": "5,500만 메소",
+      "formatted_total_val": "1억 6,500만 메소"
+    },
+    {
       "id": 45,
       "name": "카리아인 후드",
       "category": "모자",
@@ -6056,6 +6196,20 @@
       "total_val": 150000000,
       "formatted_price": "3,000만 메소",
       "formatted_total_val": "1억 5,000만 메소"
+    },
+    {
+      "id": 803,
+      "name": "어둠 레이스",
+      "category": "눈장식",
+      "grade": "G",
+      "qty": 2,
+      "season_count": 1,
+      "seasons": "143",
+      "latest_price": 74999999,
+      "latest_price_date": "2026-08-10",
+      "total_val": 149999998,
+      "formatted_price": "7,499만 메소",
+      "formatted_total_val": "1억 4,999만 메소"
     },
     {
       "id": 642,
@@ -6184,29 +6338,15 @@
       "formatted_total_val": "1억 4,000만 메소"
     },
     {
-      "id": 803,
-      "name": "어둠 레이스",
-      "category": "눈장식",
-      "grade": "G",
-      "qty": 2,
-      "season_count": 1,
-      "seasons": "143",
-      "latest_price": 70000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 140000000,
-      "formatted_price": "7,000만 메소",
-      "formatted_total_val": "1억 4,000만 메소"
-    },
-    {
-      "id": 820,
-      "name": "핑쿵 코끼리 인형 옷",
-      "category": "한벌옷",
+      "id": 826,
+      "name": "랄랄라 대파",
+      "category": "무기",
       "grade": "G",
       "qty": 2,
       "season_count": 1,
       "seasons": "144",
       "latest_price": 70000000,
-      "latest_price_date": "2026-03-03",
+      "latest_price_date": "2026-08-10",
       "total_val": 140000000,
       "formatted_price": "7,000만 메소",
       "formatted_total_val": "1억 4,000만 메소"
@@ -6223,6 +6363,20 @@
       "latest_price_date": "2026-08-10",
       "total_val": 139999999,
       "formatted_price": "1억 3,999만 메소",
+      "formatted_total_val": "1억 3,999만 메소"
+    },
+    {
+      "id": 773,
+      "name": "동백 송이",
+      "category": "한벌옷",
+      "grade": "G",
+      "qty": 4,
+      "season_count": 1,
+      "seasons": "141",
+      "latest_price": 34999999,
+      "latest_price_date": "2026-08-10",
+      "total_val": 139999996,
+      "formatted_price": "3,499만 메소",
       "formatted_total_val": "1억 3,999만 메소"
     },
     {
@@ -6324,6 +6478,20 @@
       "formatted_total_val": "1억 3,600만 메소"
     },
     {
+      "id": 790,
+      "name": "백스트리트 프렌즈",
+      "category": "무기",
+      "grade": "G",
+      "qty": 3,
+      "season_count": 1,
+      "seasons": "142",
+      "latest_price": 44444444,
+      "latest_price_date": "2026-08-10",
+      "total_val": 133333332,
+      "formatted_price": "4,444만 메소",
+      "formatted_total_val": "1억 3,333만 메소"
+    },
+    {
       "id": 171,
       "name": "상큼 달콤 펭귄즈",
       "category": "망토",
@@ -6408,20 +6576,6 @@
       "formatted_total_val": "1억 3,200만 메소"
     },
     {
-      "id": 760,
-      "name": "그림자 연극 구두",
-      "category": "신발",
-      "grade": "G",
-      "qty": 3,
-      "season_count": 1,
-      "seasons": "140",
-      "latest_price": 44000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 132000000,
-      "formatted_price": "4,400만 메소",
-      "formatted_total_val": "1억 3,200만 메소"
-    },
-    {
       "id": 742,
       "name": "모닝 동글",
       "category": "모자",
@@ -6434,6 +6588,34 @@
       "total_val": 130000000,
       "formatted_price": "1억 3,000만 메소",
       "formatted_total_val": "1억 3,000만 메소"
+    },
+    {
+      "id": 838,
+      "name": "어둠의 증거",
+      "category": "한벌옷",
+      "grade": "G",
+      "qty": 2,
+      "season_count": 1,
+      "seasons": "145",
+      "latest_price": 65000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 130000000,
+      "formatted_price": "6,500만 메소",
+      "formatted_total_val": "1억 3,000만 메소"
+    },
+    {
+      "id": 786,
+      "name": "뿌뿌 얼굴",
+      "category": "얼굴장식",
+      "grade": "G",
+      "qty": 2,
+      "season_count": 1,
+      "seasons": "142",
+      "latest_price": 64222222,
+      "latest_price_date": "2026-08-10",
+      "total_val": 128444444,
+      "formatted_price": "6,422만 메소",
+      "formatted_total_val": "1억 2,844만 메소"
     },
     {
       "id": 213,
@@ -6489,20 +6671,6 @@
       "latest_price_date": "2026-03-03",
       "total_val": 126000000,
       "formatted_price": "4,200만 메소",
-      "formatted_total_val": "1억 2,600만 메소"
-    },
-    {
-      "id": 771,
-      "name": "냄새가 났어!!",
-      "category": "얼굴장식",
-      "grade": "G",
-      "qty": 2,
-      "season_count": 1,
-      "seasons": "141",
-      "latest_price": 63000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 126000000,
-      "formatted_price": "6,300만 메소",
       "formatted_total_val": "1억 2,600만 메소"
     },
     {
@@ -6618,29 +6786,29 @@
       "formatted_total_val": "1억 2,000만 메소"
     },
     {
-      "id": 773,
-      "name": "동백 송이",
-      "category": "한벌옷",
+      "id": 745,
+      "name": "모닝 찍찍",
+      "category": "신발",
       "grade": "G",
-      "qty": 4,
+      "qty": 2,
       "season_count": 1,
-      "seasons": "141",
-      "latest_price": 30000000,
-      "latest_price_date": "2026-03-03",
+      "seasons": "139",
+      "latest_price": 60000000,
+      "latest_price_date": "2026-08-10",
       "total_val": 120000000,
-      "formatted_price": "3,000만 메소",
+      "formatted_price": "6,000만 메소",
       "formatted_total_val": "1억 2,000만 메소"
     },
     {
-      "id": 790,
-      "name": "백스트리트 프렌즈",
-      "category": "무기",
+      "id": 822,
+      "name": "슈바르츠 부츠",
+      "category": "신발",
       "grade": "G",
       "qty": 3,
       "season_count": 1,
-      "seasons": "142",
+      "seasons": "144",
       "latest_price": 40000000,
-      "latest_price_date": "2026-03-03",
+      "latest_price_date": "2026-08-10",
       "total_val": 120000000,
       "formatted_price": "4,000만 메소",
       "formatted_total_val": "1억 2,000만 메소"
@@ -6723,20 +6891,6 @@
       "qty": 3,
       "season_count": 1,
       "seasons": "108",
-      "latest_price": 38000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 114000000,
-      "formatted_price": "3,800만 메소",
-      "formatted_total_val": "1억 1,400만 메소"
-    },
-    {
-      "id": 819,
-      "name": "월하미월 (남)",
-      "category": "한벌옷",
-      "grade": "G",
-      "qty": 3,
-      "season_count": 1,
-      "seasons": "144",
       "latest_price": 38000000,
       "latest_price_date": "2026-03-03",
       "total_val": 114000000,
@@ -6982,6 +7136,34 @@
       "formatted_total_val": "1억 500만 메소"
     },
     {
+      "id": 807,
+      "name": "춤추는 빛",
+      "category": "망토",
+      "grade": "G",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "143",
+      "latest_price": 105000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 105000000,
+      "formatted_price": "1억 500만 메소",
+      "formatted_total_val": "1억 500만 메소"
+    },
+    {
+      "id": 835,
+      "name": "파릇파릇 잎사귀",
+      "category": "상의",
+      "grade": "G",
+      "qty": 3,
+      "season_count": 1,
+      "seasons": "145",
+      "latest_price": 35000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 105000000,
+      "formatted_price": "3,500만 메소",
+      "formatted_total_val": "1억 500만 메소"
+    },
+    {
       "id": 152,
       "name": "쁘띠 봄빛 우비",
       "category": "무기",
@@ -7003,34 +7185,6 @@
       "qty": 3,
       "season_count": 1,
       "seasons": "133",
-      "latest_price": 34000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 102000000,
-      "formatted_price": "3,400만 메소",
-      "formatted_total_val": "1억 200만 메소"
-    },
-    {
-      "id": 816,
-      "name": "월하호",
-      "category": "모자",
-      "grade": "G",
-      "qty": 3,
-      "season_count": 1,
-      "seasons": "144",
-      "latest_price": 34000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 102000000,
-      "formatted_price": "3,400만 메소",
-      "formatted_total_val": "1억 200만 메소"
-    },
-    {
-      "id": 825,
-      "name": "먹그림자",
-      "category": "망토",
-      "grade": "G",
-      "qty": 3,
-      "season_count": 1,
-      "seasons": "144",
       "latest_price": 34000000,
       "latest_price_date": "2026-03-03",
       "total_val": 102000000,
@@ -7164,6 +7318,20 @@
       "formatted_total_val": "1억 메소"
     },
     {
+      "id": 839,
+      "name": "무깅스",
+      "category": "하의",
+      "grade": "G",
+      "qty": 3,
+      "season_count": 1,
+      "seasons": "145",
+      "latest_price": 33333333,
+      "latest_price_date": "2026-08-10",
+      "total_val": 99999999,
+      "formatted_price": "3,333만 메소",
+      "formatted_total_val": "9,999만 메소"
+    },
+    {
       "id": 900,
       "name": "한 그루의 사과나무",
       "category": "무기",
@@ -7232,6 +7400,20 @@
       "total_val": 98000000,
       "formatted_price": "9,800만 메소",
       "formatted_total_val": "9,800만 메소"
+    },
+    {
+      "id": 784,
+      "name": "매니저 고글",
+      "category": "모자",
+      "grade": "G",
+      "qty": 2,
+      "season_count": 1,
+      "seasons": "142",
+      "latest_price": 48888888,
+      "latest_price_date": "2026-08-10",
+      "total_val": 97777776,
+      "formatted_price": "4,888만 메소",
+      "formatted_total_val": "9,777만 메소"
     },
     {
       "id": 192,
@@ -7332,20 +7514,6 @@
       "formatted_total_val": "9,400만 메소"
     },
     {
-      "id": 784,
-      "name": "매니저 고글",
-      "category": "모자",
-      "grade": "G",
-      "qty": 2,
-      "season_count": 1,
-      "seasons": "142",
-      "latest_price": 47000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 94000000,
-      "formatted_price": "4,700만 메소",
-      "formatted_total_val": "9,400만 메소"
-    },
-    {
       "id": 231,
       "name": "반짝반짝 크라운",
       "category": "모자",
@@ -7358,6 +7526,20 @@
       "total_val": 93000000,
       "formatted_price": "3,100만 메소",
       "formatted_total_val": "9,300만 메소"
+    },
+    {
+      "id": 746,
+      "name": "빵빵 곰돌벨",
+      "category": "무기",
+      "grade": "G",
+      "qty": 3,
+      "season_count": 1,
+      "seasons": "139",
+      "latest_price": 30999988,
+      "latest_price_date": "2026-08-10",
+      "total_val": 92999964,
+      "formatted_price": "3,099만 메소",
+      "formatted_total_val": "9,299만 메소"
     },
     {
       "id": 85,
@@ -7731,34 +7913,6 @@
       "qty": 2,
       "season_count": 1,
       "seasons": "130",
-      "latest_price": 44000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 88000000,
-      "formatted_price": "4,400만 메소",
-      "formatted_total_val": "8,800만 메소"
-    },
-    {
-      "id": 755,
-      "name": "그림자 연극 리본",
-      "category": "모자",
-      "grade": "G",
-      "qty": 2,
-      "season_count": 1,
-      "seasons": "140",
-      "latest_price": 44000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 88000000,
-      "formatted_price": "4,400만 메소",
-      "formatted_total_val": "8,800만 메소"
-    },
-    {
-      "id": 764,
-      "name": "그림자 연극",
-      "category": "무기",
-      "grade": "G",
-      "qty": 2,
-      "season_count": 1,
-      "seasons": "140",
       "latest_price": 44000000,
       "latest_price_date": "2026-03-03",
       "total_val": 88000000,
@@ -8228,6 +8382,34 @@
       "formatted_total_val": "7,800만 메소"
     },
     {
+      "id": 764,
+      "name": "그림자 연극",
+      "category": "무기",
+      "grade": "G",
+      "qty": 2,
+      "season_count": 1,
+      "seasons": "140",
+      "latest_price": 38888888,
+      "latest_price_date": "2026-08-10",
+      "total_val": 77777776,
+      "formatted_price": "3,888만 메소",
+      "formatted_total_val": "7,777만 메소"
+    },
+    {
+      "id": 815,
+      "name": "핑쿵 코끼리 인형 모자",
+      "category": "모자",
+      "grade": "G",
+      "qty": 2,
+      "season_count": 1,
+      "seasons": "144",
+      "latest_price": 38800000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 77600000,
+      "formatted_price": "3,880만 메소",
+      "formatted_total_val": "7,760만 메소"
+    },
+    {
       "id": 1034,
       "name": "테니스 유니폼 (남)",
       "category": "한벌옷",
@@ -8438,20 +8620,6 @@
       "formatted_total_val": "7,200만 메소"
     },
     {
-      "id": 746,
-      "name": "빵빵 곰돌벨",
-      "category": "무기",
-      "grade": "G",
-      "qty": 3,
-      "season_count": 1,
-      "seasons": "139",
-      "latest_price": 24000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 72000000,
-      "formatted_price": "2,400만 메소",
-      "formatted_total_val": "7,200만 메소"
-    },
-    {
       "id": 300,
       "name": "병아리 부리",
       "category": "얼굴장식",
@@ -8508,20 +8676,6 @@
       "formatted_total_val": "7,000만 메소"
     },
     {
-      "id": 807,
-      "name": "춤추는 빛",
-      "category": "망토",
-      "grade": "G",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "143",
-      "latest_price": 70000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 70000000,
-      "formatted_price": "7,000만 메소",
-      "formatted_total_val": "7,000만 메소"
-    },
-    {
       "id": 140,
       "name": "드림스타",
       "category": "무기",
@@ -8531,20 +8685,6 @@
       "seasons": "96,155",
       "latest_price": 23000000,
       "latest_price_date": "2026-04-01",
-      "total_val": 69000000,
-      "formatted_price": "2,300만 메소",
-      "formatted_total_val": "6,900만 메소"
-    },
-    {
-      "id": 775,
-      "name": "깐깐한 신발",
-      "category": "신발",
-      "grade": "G",
-      "qty": 3,
-      "season_count": 1,
-      "seasons": "141",
-      "latest_price": 23000000,
-      "latest_price_date": "2026-03-03",
       "total_val": 69000000,
       "formatted_price": "2,300만 메소",
       "formatted_total_val": "6,900만 메소"
@@ -8578,6 +8718,20 @@
       "formatted_total_val": "6,888만 메소"
     },
     {
+      "id": 836,
+      "name": "농구부 에이스 (남)",
+      "category": "한벌옷",
+      "grade": "G",
+      "qty": 2,
+      "season_count": 1,
+      "seasons": "145",
+      "latest_price": 34444344,
+      "latest_price_date": "2026-08-10",
+      "total_val": 68888688,
+      "formatted_price": "3,444만 메소",
+      "formatted_total_val": "6,888만 메소"
+    },
+    {
       "id": 680,
       "name": "아이스 페이퍼돌 슈즈",
       "category": "신발",
@@ -8590,6 +8744,34 @@
       "total_val": 68000000,
       "formatted_price": "1,700만 메소",
       "formatted_total_val": "6,800만 메소"
+    },
+    {
+      "id": 743,
+      "name": "글램 블랙립",
+      "category": "얼굴장식",
+      "grade": "G",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "139",
+      "latest_price": 67888888,
+      "latest_price_date": "2026-08-10",
+      "total_val": 67888888,
+      "formatted_price": "6,788만 메소",
+      "formatted_total_val": "6,788만 메소"
+    },
+    {
+      "id": 833,
+      "name": "농구부 헤어밴드",
+      "category": "모자",
+      "grade": "G",
+      "qty": 2,
+      "season_count": 1,
+      "seasons": "145",
+      "latest_price": 33333333,
+      "latest_price_date": "2026-08-10",
+      "total_val": 66666666,
+      "formatted_price": "3,333만 메소",
+      "formatted_total_val": "6,666만 메소"
     },
     {
       "id": 953,
@@ -8704,18 +8886,18 @@
       "formatted_total_val": "6,600만 메소"
     },
     {
-      "id": 772,
-      "name": "깐깐 떡볶이 외투 (남)",
-      "category": "한벌옷",
+      "id": 844,
+      "name": "곰돌 치어리더",
+      "category": "망토",
       "grade": "G",
-      "qty": 2,
+      "qty": 3,
       "season_count": 1,
-      "seasons": "141",
-      "latest_price": 33000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 66000000,
-      "formatted_price": "3,300만 메소",
-      "formatted_total_val": "6,600만 메소"
+      "seasons": "145",
+      "latest_price": 21999999,
+      "latest_price_date": "2026-08-10",
+      "total_val": 65999997,
+      "formatted_price": "2,199만 메소",
+      "formatted_total_val": "6,599만 메소"
     },
     {
       "id": 194,
@@ -8729,20 +8911,6 @@
       "latest_price_date": "2026-03-03",
       "total_val": 65000000,
       "formatted_price": "1,300만 메소",
-      "formatted_total_val": "6,500만 메소"
-    },
-    {
-      "id": 834,
-      "name": "깨물기 없다 앙!",
-      "category": "얼굴장식",
-      "grade": "G",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "145",
-      "latest_price": 65000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 65000000,
-      "formatted_price": "6,500만 메소",
       "formatted_total_val": "6,500만 메소"
     },
     {
@@ -8886,6 +9054,20 @@
       "formatted_total_val": "6,300만 메소"
     },
     {
+      "id": 846,
+      "name": "통통 농구공",
+      "category": "무기",
+      "grade": "G",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "145",
+      "latest_price": 62626262,
+      "latest_price_date": "2026-08-10",
+      "total_val": 62626262,
+      "formatted_price": "6,262만 메소",
+      "formatted_total_val": "6,262만 메소"
+    },
+    {
       "id": 11,
       "name": "[BTS] 아미밤",
       "category": "무기",
@@ -8954,20 +9136,6 @@
       "total_val": 62000000,
       "formatted_price": "3,100만 메소",
       "formatted_total_val": "6,200만 메소"
-    },
-    {
-      "id": 837,
-      "name": "마농의 꿈",
-      "category": "한벌옷",
-      "grade": "G",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "145",
-      "latest_price": 61000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 61000000,
-      "formatted_price": "6,100만 메소",
-      "formatted_total_val": "6,100만 메소"
     },
     {
       "id": 328,
@@ -9082,32 +9250,18 @@
       "formatted_total_val": "6,000만 메소"
     },
     {
-      "id": 815,
-      "name": "핑쿵 코끼리 인형 모자",
-      "category": "모자",
+      "id": 772,
+      "name": "깐깐 떡볶이 외투 (남)",
+      "category": "한벌옷",
       "grade": "G",
       "qty": 2,
       "season_count": 1,
-      "seasons": "144",
-      "latest_price": 30000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 60000000,
-      "formatted_price": "3,000만 메소",
-      "formatted_total_val": "6,000만 메소"
-    },
-    {
-      "id": 824,
-      "name": "슈바르츠 롱코트",
-      "category": "망토",
-      "grade": "G",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "144",
-      "latest_price": 60000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 60000000,
-      "formatted_price": "6,000만 메소",
-      "formatted_total_val": "6,000만 메소"
+      "seasons": "141",
+      "latest_price": 29777770,
+      "latest_price_date": "2026-08-10",
+      "total_val": 59555540,
+      "formatted_price": "2,977만 메소",
+      "formatted_total_val": "5,955만 메소"
     },
     {
       "id": 25,
@@ -9145,20 +9299,6 @@
       "qty": 2,
       "season_count": 1,
       "seasons": "97",
-      "latest_price": 29000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 58000000,
-      "formatted_price": "2,900만 메소",
-      "formatted_total_val": "5,800만 메소"
-    },
-    {
-      "id": 826,
-      "name": "랄랄라 대파",
-      "category": "무기",
-      "grade": "G",
-      "qty": 2,
-      "season_count": 1,
-      "seasons": "144",
       "latest_price": 29000000,
       "latest_price_date": "2026-03-03",
       "total_val": 58000000,
@@ -9259,6 +9399,20 @@
       "seasons": "128",
       "latest_price": 28000000,
       "latest_price_date": "2026-03-03",
+      "total_val": 56000000,
+      "formatted_price": "2,800만 메소",
+      "formatted_total_val": "5,600만 메소"
+    },
+    {
+      "id": 855,
+      "name": "샤크샤크 바다 탐사 소년 (남)",
+      "category": "한벌옷",
+      "grade": "G",
+      "qty": 2,
+      "season_count": 1,
+      "seasons": "146",
+      "latest_price": 28000000,
+      "latest_price_date": "2026-08-10",
       "total_val": 56000000,
       "formatted_price": "2,800만 메소",
       "formatted_total_val": "5,600만 메소"
@@ -9446,34 +9600,6 @@
       "formatted_total_val": "5,400만 메소"
     },
     {
-      "id": 786,
-      "name": "뿌뿌 얼굴",
-      "category": "얼굴장식",
-      "grade": "G",
-      "qty": 2,
-      "season_count": 1,
-      "seasons": "142",
-      "latest_price": 27000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 54000000,
-      "formatted_price": "2,700만 메소",
-      "formatted_total_val": "5,400만 메소"
-    },
-    {
-      "id": 856,
-      "name": "샤크샤크 탐사 슈즈",
-      "category": "신발",
-      "grade": "G",
-      "qty": 3,
-      "season_count": 1,
-      "seasons": "146",
-      "latest_price": 18000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 54000000,
-      "formatted_price": "1,800만 메소",
-      "formatted_total_val": "5,400만 메소"
-    },
-    {
       "id": 898,
       "name": "당근 빨대",
       "category": "무기",
@@ -9486,6 +9612,20 @@
       "total_val": 54000000,
       "formatted_price": "1,800만 메소",
       "formatted_total_val": "5,400만 메소"
+    },
+    {
+      "id": 775,
+      "name": "깐깐한 신발",
+      "category": "신발",
+      "grade": "G",
+      "qty": 3,
+      "season_count": 1,
+      "seasons": "141",
+      "latest_price": 17999990,
+      "latest_price_date": "2026-08-10",
+      "total_val": 53999970,
+      "formatted_price": "1,799만 메소",
+      "formatted_total_val": "5,399만 메소"
     },
     {
       "id": 858,
@@ -9642,20 +9782,6 @@
       "formatted_total_val": "5,100만 메소"
     },
     {
-      "id": 822,
-      "name": "슈바르츠 부츠",
-      "category": "신발",
-      "grade": "G",
-      "qty": 3,
-      "season_count": 1,
-      "seasons": "144",
-      "latest_price": 17000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 51000000,
-      "formatted_price": "1,700만 메소",
-      "formatted_total_val": "5,100만 메소"
-    },
-    {
       "id": 501,
       "name": "노랑장화",
       "category": "신발",
@@ -9719,34 +9845,6 @@
       "qty": 2,
       "season_count": 1,
       "seasons": "139",
-      "latest_price": 25000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 50000000,
-      "formatted_price": "2,500만 메소",
-      "formatted_total_val": "5,000만 메소"
-    },
-    {
-      "id": 745,
-      "name": "모닝 찍찍",
-      "category": "신발",
-      "grade": "G",
-      "qty": 2,
-      "season_count": 1,
-      "seasons": "139",
-      "latest_price": 25000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 50000000,
-      "formatted_price": "2,500만 메소",
-      "formatted_total_val": "5,000만 메소"
-    },
-    {
-      "id": 823,
-      "name": "월하행적",
-      "category": "신발",
-      "grade": "G",
-      "qty": 2,
-      "season_count": 1,
-      "seasons": "144",
       "latest_price": 25000000,
       "latest_price_date": "2026-03-03",
       "total_val": 50000000,
@@ -10006,18 +10104,18 @@
       "formatted_total_val": "4,500만 메소"
     },
     {
-      "id": 835,
-      "name": "파릇파릇 잎사귀",
-      "category": "상의",
+      "id": 806,
+      "name": "흐르는 수정",
+      "category": "망토",
       "grade": "G",
-      "qty": 3,
+      "qty": 1,
       "season_count": 1,
-      "seasons": "145",
-      "latest_price": 15000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 45000000,
-      "formatted_price": "1,500만 메소",
-      "formatted_total_val": "4,500만 메소"
+      "seasons": "143",
+      "latest_price": 44999999,
+      "latest_price_date": "2026-08-10",
+      "total_val": 44999999,
+      "formatted_price": "4,499만 메소",
+      "formatted_total_val": "4,499만 메소"
     },
     {
       "id": 951,
@@ -10032,6 +10130,20 @@
       "total_val": 44999999,
       "formatted_price": "4,499만 메소",
       "formatted_total_val": "4,499만 메소"
+    },
+    {
+      "id": 744,
+      "name": "위험한 미소",
+      "category": "얼굴장식",
+      "grade": "G",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "139",
+      "latest_price": 44444444,
+      "latest_price_date": "2026-08-10",
+      "total_val": 44444444,
+      "formatted_price": "4,444만 메소",
+      "formatted_total_val": "4,444만 메소"
     },
     {
       "id": 857,
@@ -10188,34 +10300,6 @@
       "formatted_total_val": "4,400만 메소"
     },
     {
-      "id": 774,
-      "name": "아지트 구두",
-      "category": "신발",
-      "grade": "G",
-      "qty": 2,
-      "season_count": 1,
-      "seasons": "141",
-      "latest_price": 22000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 44000000,
-      "formatted_price": "2,200만 메소",
-      "formatted_total_val": "4,400만 메소"
-    },
-    {
-      "id": 838,
-      "name": "어둠의 증거",
-      "category": "한벌옷",
-      "grade": "G",
-      "qty": 2,
-      "season_count": 1,
-      "seasons": "145",
-      "latest_price": 22000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 44000000,
-      "formatted_price": "2,200만 메소",
-      "formatted_total_val": "4,400만 메소"
-    },
-    {
       "id": 914,
       "name": "문 버니 새틀라이트",
       "category": "망토",
@@ -10293,20 +10377,6 @@
       "qty": 1,
       "season_count": 1,
       "seasons": "130",
-      "latest_price": 43000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 43000000,
-      "formatted_price": "4,300만 메소",
-      "formatted_total_val": "4,300만 메소"
-    },
-    {
-      "id": 763,
-      "name": "그림자 오로라",
-      "category": "망토",
-      "grade": "G",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "140",
       "latest_price": 43000000,
       "latest_price_date": "2026-03-03",
       "total_val": 43000000,
@@ -10398,34 +10468,6 @@
       "formatted_total_val": "4,200만 메소"
     },
     {
-      "id": 853,
-      "name": "문어문어 캡",
-      "category": "모자",
-      "grade": "G",
-      "qty": 3,
-      "season_count": 1,
-      "seasons": "146",
-      "latest_price": 14000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 42000000,
-      "formatted_price": "1,400만 메소",
-      "formatted_total_val": "4,200만 메소"
-    },
-    {
-      "id": 855,
-      "name": "샤크샤크 바다 탐사 소년 (남)",
-      "category": "한벌옷",
-      "grade": "G",
-      "qty": 2,
-      "season_count": 1,
-      "seasons": "146",
-      "latest_price": 21000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 42000000,
-      "formatted_price": "2,100만 메소",
-      "formatted_total_val": "4,200만 메소"
-    },
-    {
       "id": 928,
       "name": "포근 블루 단화 (남)",
       "category": "신발",
@@ -10466,6 +10508,20 @@
       "total_val": 41000000,
       "formatted_price": "4,100만 메소",
       "formatted_total_val": "4,100만 메소"
+    },
+    {
+      "id": 853,
+      "name": "문어문어 캡",
+      "category": "모자",
+      "grade": "G",
+      "qty": 3,
+      "season_count": 1,
+      "seasons": "146",
+      "latest_price": 13444444,
+      "latest_price_date": "2026-08-10",
+      "total_val": 40333332,
+      "formatted_price": "1,344만 메소",
+      "formatted_total_val": "4,033만 메소"
     },
     {
       "id": 4,
@@ -10678,20 +10734,6 @@
       "formatted_total_val": "4,000만 메소"
     },
     {
-      "id": 836,
-      "name": "농구부 에이스 (남)",
-      "category": "한벌옷",
-      "grade": "G",
-      "qty": 2,
-      "season_count": 1,
-      "seasons": "145",
-      "latest_price": 20000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 40000000,
-      "formatted_price": "2,000만 메소",
-      "formatted_total_val": "4,000만 메소"
-    },
-    {
       "id": 1045,
       "name": "오르카 블랙윙 제복",
       "category": "한벌옷",
@@ -10716,6 +10758,34 @@
       "latest_price": 19999999,
       "latest_price_date": "2026-08-10",
       "total_val": 39999998,
+      "formatted_price": "1,999만 메소",
+      "formatted_total_val": "3,999만 메소"
+    },
+    {
+      "id": 817,
+      "name": "월하접",
+      "category": "모자",
+      "grade": "G",
+      "qty": 4,
+      "season_count": 1,
+      "seasons": "144",
+      "latest_price": 9999999,
+      "latest_price_date": "2026-08-10",
+      "total_val": 39999996,
+      "formatted_price": "999만 메소",
+      "formatted_total_val": "3,999만 메소"
+    },
+    {
+      "id": 854,
+      "name": "야구장 데이트 (남)",
+      "category": "한벌옷",
+      "grade": "G",
+      "qty": 2,
+      "season_count": 1,
+      "seasons": "146",
+      "latest_price": 19999997,
+      "latest_price_date": "2026-08-10",
+      "total_val": 39999994,
       "formatted_price": "1,999만 메소",
       "formatted_total_val": "3,999만 메소"
     },
@@ -10790,20 +10860,6 @@
       "formatted_total_val": "3,900만 메소"
     },
     {
-      "id": 839,
-      "name": "무깅스",
-      "category": "하의",
-      "grade": "G",
-      "qty": 3,
-      "season_count": 1,
-      "seasons": "145",
-      "latest_price": 13000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 39000000,
-      "formatted_price": "1,300만 메소",
-      "formatted_total_val": "3,900만 메소"
-    },
-    {
       "id": 895,
       "name": "꼬물 아지 신발",
       "category": "신발",
@@ -10818,18 +10874,32 @@
       "formatted_total_val": "3,900만 메소"
     },
     {
-      "id": 833,
-      "name": "농구부 헤어밴드",
+      "id": 763,
+      "name": "그림자 오로라",
+      "category": "망토",
+      "grade": "G",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "140",
+      "latest_price": 38888888,
+      "latest_price_date": "2026-08-10",
+      "total_val": 38888888,
+      "formatted_price": "3,888만 메소",
+      "formatted_total_val": "3,888만 메소"
+    },
+    {
+      "id": 814,
+      "name": "슈바르츠 베레모",
       "category": "모자",
       "grade": "G",
-      "qty": 2,
+      "qty": 1,
       "season_count": 1,
-      "seasons": "145",
-      "latest_price": 19000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 38000000,
-      "formatted_price": "1,900만 메소",
-      "formatted_total_val": "3,800만 메소"
+      "seasons": "144",
+      "latest_price": 38886888,
+      "latest_price_date": "2026-08-10",
+      "total_val": 38886888,
+      "formatted_price": "3,888만 메소",
+      "formatted_total_val": "3,888만 메소"
     },
     {
       "id": 976,
@@ -10844,6 +10914,20 @@
       "total_val": 38000000,
       "formatted_price": "3,800만 메소",
       "formatted_total_val": "3,800만 메소"
+    },
+    {
+      "id": 842,
+      "name": "새벽의 오팔",
+      "category": "망토",
+      "grade": "G",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "145",
+      "latest_price": 37777677,
+      "latest_price_date": "2026-08-10",
+      "total_val": 37777677,
+      "formatted_price": "3,777만 메소",
+      "formatted_total_val": "3,777만 메소"
     },
     {
       "id": 75,
@@ -10895,20 +10979,6 @@
       "qty": 1,
       "season_count": 1,
       "seasons": "132",
-      "latest_price": 37000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 37000000,
-      "formatted_price": "3,700만 메소",
-      "formatted_total_val": "3,700만 메소"
-    },
-    {
-      "id": 842,
-      "name": "새벽의 오팔",
-      "category": "망토",
-      "grade": "G",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "145",
       "latest_price": 37000000,
       "latest_price_date": "2026-03-03",
       "total_val": 37000000,
@@ -11028,34 +11098,6 @@
       "formatted_total_val": "3,500만 메소"
     },
     {
-      "id": 806,
-      "name": "흐르는 수정",
-      "category": "망토",
-      "grade": "G",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "143",
-      "latest_price": 35000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 35000000,
-      "formatted_price": "3,500만 메소",
-      "formatted_total_val": "3,500만 메소"
-    },
-    {
-      "id": 846,
-      "name": "통통 농구공",
-      "category": "무기",
-      "grade": "G",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "145",
-      "latest_price": 35000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 35000000,
-      "formatted_price": "3,500만 메소",
-      "formatted_total_val": "3,500만 메소"
-    },
-    {
       "id": 55,
       "name": "고쓰 페도라",
       "category": "모자",
@@ -11123,34 +11165,6 @@
       "latest_price_date": "2026-03-03",
       "total_val": 34000000,
       "formatted_price": "1,700만 메소",
-      "formatted_total_val": "3,400만 메소"
-    },
-    {
-      "id": 744,
-      "name": "위험한 미소",
-      "category": "얼굴장식",
-      "grade": "G",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "139",
-      "latest_price": 34000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 34000000,
-      "formatted_price": "3,400만 메소",
-      "formatted_total_val": "3,400만 메소"
-    },
-    {
-      "id": 754,
-      "name": "스노우 쿠키 후디",
-      "category": "모자",
-      "grade": "S",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "140",
-      "latest_price": 34000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 34000000,
-      "formatted_price": "3,400만 메소",
       "formatted_total_val": "3,400만 메소"
     },
     {
@@ -11238,6 +11252,34 @@
       "formatted_total_val": "3,300만 메소"
     },
     {
+      "id": 754,
+      "name": "스노우 쿠키 후디",
+      "category": "모자",
+      "grade": "G",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "140",
+      "latest_price": 33000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 33000000,
+      "formatted_price": "3,300만 메소",
+      "formatted_total_val": "3,300만 메소"
+    },
+    {
+      "id": 837,
+      "name": "마농의 꿈",
+      "category": "한벌옷",
+      "grade": "G",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "145",
+      "latest_price": 33000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 33000000,
+      "formatted_price": "3,300만 메소",
+      "formatted_total_val": "3,300만 메소"
+    },
+    {
       "id": 917,
       "name": "문 버니 디바이스",
       "category": "무기",
@@ -11273,76 +11315,6 @@
       "qty": 1,
       "season_count": 1,
       "seasons": "125",
-      "latest_price": 32000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 32000000,
-      "formatted_price": "3,200만 메소",
-      "formatted_total_val": "3,200만 메소"
-    },
-    {
-      "id": 777,
-      "name": "깐깐한 꼬리표",
-      "category": "망토",
-      "grade": "G",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "141",
-      "latest_price": 32000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 32000000,
-      "formatted_price": "3,200만 메소",
-      "formatted_total_val": "3,200만 메소"
-    },
-    {
-      "id": 782,
-      "name": "한 잎의 모자",
-      "category": "모자",
-      "grade": "G",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "142",
-      "latest_price": 32000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 32000000,
-      "formatted_price": "3,200만 메소",
-      "formatted_total_val": "3,200만 메소"
-    },
-    {
-      "id": 814,
-      "name": "슈바르츠 베레모",
-      "category": "모자",
-      "grade": "G",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "144",
-      "latest_price": 32000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 32000000,
-      "formatted_price": "3,200만 메소",
-      "formatted_total_val": "3,200만 메소"
-    },
-    {
-      "id": 817,
-      "name": "월하접",
-      "category": "모자",
-      "grade": "G",
-      "qty": 4,
-      "season_count": 1,
-      "seasons": "144",
-      "latest_price": 8000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 32000000,
-      "formatted_price": "800만 메소",
-      "formatted_total_val": "3,200만 메소"
-    },
-    {
-      "id": 828,
-      "name": "냠냠꼬치구이",
-      "category": "무기",
-      "grade": "G",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "144",
       "latest_price": 32000000,
       "latest_price_date": "2026-03-03",
       "total_val": 32000000,
@@ -11401,6 +11373,20 @@
       "seasons": "106",
       "latest_price": 31000000,
       "latest_price_date": "2026-03-03",
+      "total_val": 31000000,
+      "formatted_price": "3,100만 메소",
+      "formatted_total_val": "3,100만 메소"
+    },
+    {
+      "id": 828,
+      "name": "냠냠꼬치구이",
+      "category": "무기",
+      "grade": "G",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "144",
+      "latest_price": 31000000,
+      "latest_price_date": "2026-08-10",
       "total_val": 31000000,
       "formatted_price": "3,100만 메소",
       "formatted_total_val": "3,100만 메소"
@@ -11602,29 +11588,15 @@
       "formatted_total_val": "3,000만 메소"
     },
     {
-      "id": 743,
-      "name": "글램 블랙립",
-      "category": "얼굴장식",
-      "grade": "G",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "139",
-      "latest_price": 30000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 30000000,
-      "formatted_price": "3,000만 메소",
-      "formatted_total_val": "3,000만 메소"
-    },
-    {
-      "id": 844,
-      "name": "곰돌 치어리더",
-      "category": "망토",
+      "id": 747,
+      "name": "위험한 검은 가방",
+      "category": "무기",
       "grade": "G",
       "qty": 3,
-      "season_count": 1,
-      "seasons": "145",
+      "season_count": 2,
+      "seasons": "139,158",
       "latest_price": 10000000,
-      "latest_price_date": "2026-03-03",
+      "latest_price_date": "2026-08-10",
       "total_val": 30000000,
       "formatted_price": "1,000만 메소",
       "formatted_total_val": "3,000만 메소"
@@ -11826,34 +11798,6 @@
       "formatted_total_val": "2,800만 메소"
     },
     {
-      "id": 788,
-      "name": "블랙 앵클릿",
-      "category": "신발",
-      "grade": "G",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "142",
-      "latest_price": 28000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 28000000,
-      "formatted_price": "2,800만 메소",
-      "formatted_total_val": "2,800만 메소"
-    },
-    {
-      "id": 800,
-      "name": "통신 수신기",
-      "category": "모자",
-      "grade": "G",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "143",
-      "latest_price": 28000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 28000000,
-      "formatted_price": "2,800만 메소",
-      "formatted_total_val": "2,800만 메소"
-    },
-    {
       "id": 907,
       "name": "나는 반창고",
       "category": "얼굴장식",
@@ -11880,6 +11824,20 @@
       "total_val": 28000000,
       "formatted_price": "1,400만 메소",
       "formatted_total_val": "2,800만 메소"
+    },
+    {
+      "id": 782,
+      "name": "한 잎의 모자",
+      "category": "모자",
+      "grade": "G",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "142",
+      "latest_price": 27777777,
+      "latest_price_date": "2026-08-10",
+      "total_val": 27777777,
+      "formatted_price": "2,777만 메소",
+      "formatted_total_val": "2,777만 메소"
     },
     {
       "id": 886,
@@ -11980,6 +11938,20 @@
       "formatted_total_val": "2,600만 메소"
     },
     {
+      "id": 774,
+      "name": "아지트 구두",
+      "category": "신발",
+      "grade": "G",
+      "qty": 2,
+      "season_count": 1,
+      "seasons": "141",
+      "latest_price": 13000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 26000000,
+      "formatted_price": "1,300만 메소",
+      "formatted_total_val": "2,600만 메소"
+    },
+    {
       "id": 485,
       "name": "내 볼에 오이팩",
       "category": "얼굴장식",
@@ -12031,6 +12003,20 @@
       "seasons": "134",
       "latest_price": 25000000,
       "latest_price_date": "2026-03-03",
+      "total_val": 25000000,
+      "formatted_price": "2,500만 메소",
+      "formatted_total_val": "2,500만 메소"
+    },
+    {
+      "id": 818,
+      "name": "복숭아꽃",
+      "category": "얼굴장식",
+      "grade": "G",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "144",
+      "latest_price": 25000000,
+      "latest_price_date": "2026-08-10",
       "total_val": 25000000,
       "formatted_price": "2,500만 메소",
       "formatted_total_val": "2,500만 메소"
@@ -12092,6 +12078,20 @@
       "formatted_total_val": "2,400만 메소"
     },
     {
+      "id": 777,
+      "name": "깐깐한 꼬리표",
+      "category": "망토",
+      "grade": "G",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "141",
+      "latest_price": 23799990,
+      "latest_price_date": "2026-08-10",
+      "total_val": 23799990,
+      "formatted_price": "2,379만 메소",
+      "formatted_total_val": "2,379만 메소"
+    },
+    {
       "id": 135,
       "name": "포숑 요정구두",
       "category": "신발",
@@ -12104,6 +12104,48 @@
       "total_val": 23100000,
       "formatted_price": "770만 메소",
       "formatted_total_val": "2,310만 메소"
+    },
+    {
+      "id": 800,
+      "name": "통신 수신기",
+      "category": "모자",
+      "grade": "G",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "143",
+      "latest_price": 23000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 23000000,
+      "formatted_price": "2,300만 메소",
+      "formatted_total_val": "2,300만 메소"
+    },
+    {
+      "id": 788,
+      "name": "블랙 앵클릿",
+      "category": "신발",
+      "grade": "G",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "142",
+      "latest_price": 22999999,
+      "latest_price_date": "2026-08-10",
+      "total_val": 22999999,
+      "formatted_price": "2,299만 메소",
+      "formatted_total_val": "2,299만 메소"
+    },
+    {
+      "id": 821,
+      "name": "핑크 엘리펀트 슬리퍼",
+      "category": "신발",
+      "grade": "G",
+      "qty": 2,
+      "season_count": 1,
+      "seasons": "144",
+      "latest_price": 11111111,
+      "latest_price_date": "2026-08-10",
+      "total_val": 22222222,
+      "formatted_price": "1,111만 메소",
+      "formatted_total_val": "2,222만 메소"
     },
     {
       "id": 879,
@@ -12351,20 +12393,6 @@
       "qty": 2,
       "season_count": 1,
       "seasons": "132",
-      "latest_price": 10000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 20000000,
-      "formatted_price": "1,000만 메소",
-      "formatted_total_val": "2,000만 메소"
-    },
-    {
-      "id": 854,
-      "name": "야구장 데이트 (남)",
-      "category": "한벌옷",
-      "grade": "G",
-      "qty": 2,
-      "season_count": 1,
-      "seasons": "146",
       "latest_price": 10000000,
       "latest_price_date": "2026-03-03",
       "total_val": 20000000,
@@ -12792,6 +12820,20 @@
       "formatted_total_val": "1,400만 메소"
     },
     {
+      "id": 841,
+      "name": "힘찬 도약",
+      "category": "신발",
+      "grade": "G",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "145",
+      "latest_price": 14000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 14000000,
+      "formatted_price": "1,400만 메소",
+      "formatted_total_val": "1,400만 메소"
+    },
+    {
       "id": 238,
       "name": "가벼운 스텝",
       "category": "신발",
@@ -12918,6 +12960,20 @@
       "formatted_total_val": "1,200만 메소"
     },
     {
+      "id": 856,
+      "name": "샤크샤크 탐사 슈즈",
+      "category": "신발",
+      "grade": "G",
+      "qty": 3,
+      "season_count": 1,
+      "seasons": "146",
+      "latest_price": 4000000,
+      "latest_price_date": "2026-08-10",
+      "total_val": 12000000,
+      "formatted_price": "400만 메소",
+      "formatted_total_val": "1,200만 메소"
+    },
+    {
       "id": 1100,
       "name": "유기농 쌀밥",
       "category": "무기",
@@ -13016,20 +13072,6 @@
       "formatted_total_val": "1,100만 메소"
     },
     {
-      "id": 818,
-      "name": "복숭아꽃",
-      "category": "얼굴장식",
-      "grade": "G",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "144",
-      "latest_price": 11000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 11000000,
-      "formatted_price": "1,100만 메소",
-      "formatted_total_val": "1,100만 메소"
-    },
-    {
       "id": 6,
       "name": "[BTS] 목마 탄 웡키 형",
       "category": "모자",
@@ -13056,6 +13098,20 @@
       "total_val": 10000000,
       "formatted_price": "1,000만 메소",
       "formatted_total_val": "1,000만 메소"
+    },
+    {
+      "id": 851,
+      "name": "트럼프 하트",
+      "category": "모자",
+      "grade": "G",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "146",
+      "latest_price": 9988888,
+      "latest_price_date": "2026-08-10",
+      "total_val": 9988888,
+      "formatted_price": "998만 메소",
+      "formatted_total_val": "998만 메소"
     },
     {
       "id": 596,
@@ -13184,34 +13240,6 @@
       "formatted_total_val": "800만 메소"
     },
     {
-      "id": 770,
-      "name": "동백 베일",
-      "category": "모자",
-      "grade": "G",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "141",
-      "latest_price": 8000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 8000000,
-      "formatted_price": "800만 메소",
-      "formatted_total_val": "800만 메소"
-    },
-    {
-      "id": 821,
-      "name": "핑크 엘리펀트 슬리퍼",
-      "category": "신발",
-      "grade": "G",
-      "qty": 2,
-      "season_count": 1,
-      "seasons": "144",
-      "latest_price": 4000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 8000000,
-      "formatted_price": "400만 메소",
-      "formatted_total_val": "800만 메소"
-    },
-    {
       "id": 1093,
       "name": "낭만협객 (여)",
       "category": "한벌옷",
@@ -13224,6 +13252,20 @@
       "total_val": 7799998,
       "formatted_price": "389만 메소",
       "formatted_total_val": "779만 메소"
+    },
+    {
+      "id": 770,
+      "name": "동백 베일",
+      "category": "모자",
+      "grade": "G",
+      "qty": 1,
+      "season_count": 1,
+      "seasons": "141",
+      "latest_price": 7777770,
+      "latest_price_date": "2026-08-10",
+      "total_val": 7777770,
+      "formatted_price": "777만 메소",
+      "formatted_total_val": "777만 메소"
     },
     {
       "id": 291,
@@ -13447,48 +13489,6 @@
       "latest_price_date": "2026-05-01",
       "total_val": 3000000,
       "formatted_price": "100만 메소",
-      "formatted_total_val": "300만 메소"
-    },
-    {
-      "id": 747,
-      "name": "위험한 검은 가방",
-      "category": "무기",
-      "grade": "G",
-      "qty": 3,
-      "season_count": 2,
-      "seasons": "139,158",
-      "latest_price": 1000000,
-      "latest_price_date": "2026-07-02",
-      "total_val": 3000000,
-      "formatted_price": "100만 메소",
-      "formatted_total_val": "300만 메소"
-    },
-    {
-      "id": 841,
-      "name": "힘찬 도약",
-      "category": "신발",
-      "grade": "G",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "145",
-      "latest_price": 3000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 3000000,
-      "formatted_price": "300만 메소",
-      "formatted_total_val": "300만 메소"
-    },
-    {
-      "id": 851,
-      "name": "트럼프 하트",
-      "category": "모자",
-      "grade": "G",
-      "qty": 1,
-      "season_count": 1,
-      "seasons": "146",
-      "latest_price": 3000000,
-      "latest_price_date": "2026-03-03",
-      "total_val": 3000000,
-      "formatted_price": "300만 메소",
       "formatted_total_val": "300만 메소"
     },
     {
@@ -35366,6 +35366,13 @@
         "price": 30000000,
         "date": "2026-03-03",
         "formatted_price": "3,000만 메소"
+      },
+      {
+        "id": 3817,
+        "item_id": 743,
+        "price": 67888888,
+        "date": "2026-08-10",
+        "formatted_price": "6,788만 메소"
       }
     ],
     "744": [
@@ -35382,6 +35389,13 @@
         "price": 34000000,
         "date": "2026-03-03",
         "formatted_price": "3,400만 메소"
+      },
+      {
+        "id": 3818,
+        "item_id": 744,
+        "price": 44444444,
+        "date": "2026-08-10",
+        "formatted_price": "4,444만 메소"
       }
     ],
     "745": [
@@ -35398,6 +35412,13 @@
         "price": 25000000,
         "date": "2026-03-03",
         "formatted_price": "2,500만 메소"
+      },
+      {
+        "id": 3819,
+        "item_id": 745,
+        "price": 60000000,
+        "date": "2026-08-10",
+        "formatted_price": "6,000만 메소"
       }
     ],
     "746": [
@@ -35414,6 +35435,13 @@
         "price": 24000000,
         "date": "2026-03-03",
         "formatted_price": "2,400만 메소"
+      },
+      {
+        "id": 3820,
+        "item_id": 746,
+        "price": 30999988,
+        "date": "2026-08-10",
+        "formatted_price": "3,099만 메소"
       }
     ],
     "747": [
@@ -35437,6 +35465,13 @@
         "price": 1000000,
         "date": "2026-07-02",
         "formatted_price": "100만 메소"
+      },
+      {
+        "id": 3821,
+        "item_id": 747,
+        "price": 10000000,
+        "date": "2026-08-10",
+        "formatted_price": "1,000만 메소"
       }
     ],
     "748": [
@@ -35453,6 +35488,13 @@
         "price": 500000000,
         "date": "2026-03-03",
         "formatted_price": "5억 메소"
+      },
+      {
+        "id": 3822,
+        "item_id": 748,
+        "price": 430000000,
+        "date": "2026-08-10",
+        "formatted_price": "4억 3,000만 메소"
       }
     ],
     "749": [
@@ -35469,6 +35511,13 @@
         "price": 850000000,
         "date": "2026-03-03",
         "formatted_price": "8억 5,000만 메소"
+      },
+      {
+        "id": 3823,
+        "item_id": 749,
+        "price": 799000000,
+        "date": "2026-08-10",
+        "formatted_price": "7억 9,900만 메소"
       }
     ],
     "750": [
@@ -35485,6 +35534,13 @@
         "price": 500000000,
         "date": "2026-03-03",
         "formatted_price": "5억 메소"
+      },
+      {
+        "id": 3824,
+        "item_id": 750,
+        "price": 940000000,
+        "date": "2026-08-10",
+        "formatted_price": "9억 4,000만 메소"
       }
     ],
     "751": [
@@ -35501,6 +35557,13 @@
         "price": 500000000,
         "date": "2026-03-03",
         "formatted_price": "5억 메소"
+      },
+      {
+        "id": 3825,
+        "item_id": 751,
+        "price": 850000000,
+        "date": "2026-08-10",
+        "formatted_price": "8억 5,000만 메소"
       }
     ],
     "752": [
@@ -35517,6 +35580,13 @@
         "price": 500000000,
         "date": "2026-03-03",
         "formatted_price": "5억 메소"
+      },
+      {
+        "id": 3826,
+        "item_id": 752,
+        "price": 499000000,
+        "date": "2026-08-10",
+        "formatted_price": "4억 9,900만 메소"
       }
     ],
     "754": [
@@ -35533,6 +35603,13 @@
         "price": 34000000,
         "date": "2026-03-03",
         "formatted_price": "3,400만 메소"
+      },
+      {
+        "id": 3827,
+        "item_id": 754,
+        "price": 33000000,
+        "date": "2026-08-10",
+        "formatted_price": "3,300만 메소"
       }
     ],
     "755": [
@@ -35549,6 +35626,13 @@
         "price": 44000000,
         "date": "2026-03-03",
         "formatted_price": "4,400만 메소"
+      },
+      {
+        "id": 3828,
+        "item_id": 755,
+        "price": 299900000,
+        "date": "2026-08-10",
+        "formatted_price": "2억 9,990만 메소"
       }
     ],
     "756": [
@@ -35565,6 +35649,13 @@
         "price": 100000000,
         "date": "2026-03-03",
         "formatted_price": "1억 메소"
+      },
+      {
+        "id": 3829,
+        "item_id": 756,
+        "price": 170000000,
+        "date": "2026-08-10",
+        "formatted_price": "1억 7,000만 메소"
       }
     ],
     "757": [
@@ -35581,6 +35672,13 @@
         "price": 94000000,
         "date": "2026-03-03",
         "formatted_price": "9,400만 메소"
+      },
+      {
+        "id": 3830,
+        "item_id": 757,
+        "price": 95000000,
+        "date": "2026-08-10",
+        "formatted_price": "9,500만 메소"
       }
     ],
     "760": [
@@ -35597,6 +35695,13 @@
         "price": 44000000,
         "date": "2026-03-03",
         "formatted_price": "4,400만 메소"
+      },
+      {
+        "id": 3831,
+        "item_id": 760,
+        "price": 199000000,
+        "date": "2026-08-10",
+        "formatted_price": "1억 9,900만 메소"
       }
     ],
     "761": [
@@ -35613,6 +35718,13 @@
         "price": 190000000,
         "date": "2026-03-03",
         "formatted_price": "1억 9,000만 메소"
+      },
+      {
+        "id": 3832,
+        "item_id": 761,
+        "price": 122222222,
+        "date": "2026-08-10",
+        "formatted_price": "1억 2,222만 메소"
       }
     ],
     "763": [
@@ -35629,6 +35741,13 @@
         "price": 43000000,
         "date": "2026-03-03",
         "formatted_price": "4,300만 메소"
+      },
+      {
+        "id": 3833,
+        "item_id": 763,
+        "price": 38888888,
+        "date": "2026-08-10",
+        "formatted_price": "3,888만 메소"
       }
     ],
     "764": [
@@ -35645,6 +35764,13 @@
         "price": 44000000,
         "date": "2026-03-03",
         "formatted_price": "4,400만 메소"
+      },
+      {
+        "id": 3834,
+        "item_id": 764,
+        "price": 38888888,
+        "date": "2026-08-10",
+        "formatted_price": "3,888만 메소"
       }
     ],
     "765": [
@@ -35661,6 +35787,13 @@
         "price": 500000000,
         "date": "2026-03-03",
         "formatted_price": "5억 메소"
+      },
+      {
+        "id": 3835,
+        "item_id": 765,
+        "price": 511111111,
+        "date": "2026-08-10",
+        "formatted_price": "5억 1,111만 메소"
       }
     ],
     "766": [
@@ -35677,6 +35810,13 @@
         "price": 1400000000,
         "date": "2026-03-03",
         "formatted_price": "14억 메소"
+      },
+      {
+        "id": 3836,
+        "item_id": 766,
+        "price": 1200000000,
+        "date": "2026-08-10",
+        "formatted_price": "12억 메소"
       }
     ],
     "767": [
@@ -35693,6 +35833,13 @@
         "price": 500000000,
         "date": "2026-03-03",
         "formatted_price": "5억 메소"
+      },
+      {
+        "id": 3837,
+        "item_id": 767,
+        "price": 440000000,
+        "date": "2026-08-10",
+        "formatted_price": "4억 4,000만 메소"
       }
     ],
     "768": [
@@ -35709,6 +35856,13 @@
         "price": 500000000,
         "date": "2026-03-03",
         "formatted_price": "5억 메소"
+      },
+      {
+        "id": 3838,
+        "item_id": 768,
+        "price": 467777777,
+        "date": "2026-08-10",
+        "formatted_price": "4억 6,777만 메소"
       }
     ],
     "769": [
@@ -35725,6 +35879,13 @@
         "price": 500000000,
         "date": "2026-03-03",
         "formatted_price": "5억 메소"
+      },
+      {
+        "id": 3839,
+        "item_id": 769,
+        "price": 498888888,
+        "date": "2026-08-10",
+        "formatted_price": "4억 9,888만 메소"
       }
     ],
     "770": [
@@ -35741,6 +35902,13 @@
         "price": 8000000,
         "date": "2026-03-03",
         "formatted_price": "800만 메소"
+      },
+      {
+        "id": 3840,
+        "item_id": 770,
+        "price": 7777770,
+        "date": "2026-08-10",
+        "formatted_price": "777만 메소"
       }
     ],
     "771": [
@@ -35757,6 +35925,13 @@
         "price": 63000000,
         "date": "2026-03-03",
         "formatted_price": "6,300만 메소"
+      },
+      {
+        "id": 3841,
+        "item_id": 771,
+        "price": 129000000,
+        "date": "2026-08-10",
+        "formatted_price": "1억 2,900만 메소"
       }
     ],
     "772": [
@@ -35773,6 +35948,13 @@
         "price": 33000000,
         "date": "2026-03-03",
         "formatted_price": "3,300만 메소"
+      },
+      {
+        "id": 3842,
+        "item_id": 772,
+        "price": 29777770,
+        "date": "2026-08-10",
+        "formatted_price": "2,977만 메소"
       }
     ],
     "773": [
@@ -35789,6 +35971,13 @@
         "price": 30000000,
         "date": "2026-03-03",
         "formatted_price": "3,000만 메소"
+      },
+      {
+        "id": 3843,
+        "item_id": 773,
+        "price": 34999999,
+        "date": "2026-08-10",
+        "formatted_price": "3,499만 메소"
       }
     ],
     "774": [
@@ -35805,6 +35994,13 @@
         "price": 22000000,
         "date": "2026-03-03",
         "formatted_price": "2,200만 메소"
+      },
+      {
+        "id": 3844,
+        "item_id": 774,
+        "price": 13000000,
+        "date": "2026-08-10",
+        "formatted_price": "1,300만 메소"
       }
     ],
     "775": [
@@ -35821,6 +36017,13 @@
         "price": 23000000,
         "date": "2026-03-03",
         "formatted_price": "2,300만 메소"
+      },
+      {
+        "id": 3845,
+        "item_id": 775,
+        "price": 17999990,
+        "date": "2026-08-10",
+        "formatted_price": "1,799만 메소"
       }
     ],
     "776": [
@@ -35837,6 +36040,13 @@
         "price": 210000000,
         "date": "2026-03-03",
         "formatted_price": "2억 1,000만 메소"
+      },
+      {
+        "id": 3846,
+        "item_id": 776,
+        "price": 349999999,
+        "date": "2026-08-10",
+        "formatted_price": "3억 4,999만 메소"
       }
     ],
     "777": [
@@ -35853,6 +36063,13 @@
         "price": 32000000,
         "date": "2026-03-03",
         "formatted_price": "3,200만 메소"
+      },
+      {
+        "id": 3847,
+        "item_id": 777,
+        "price": 23799990,
+        "date": "2026-08-10",
+        "formatted_price": "2,379만 메소"
       }
     ],
     "778": [
@@ -35869,6 +36086,13 @@
         "price": 730000000,
         "date": "2026-03-03",
         "formatted_price": "7억 3,000만 메소"
+      },
+      {
+        "id": 3848,
+        "item_id": 778,
+        "price": 750000000,
+        "date": "2026-08-10",
+        "formatted_price": "7억 5,000만 메소"
       }
     ],
     "779": [
@@ -35885,6 +36109,13 @@
         "price": 500000000,
         "date": "2026-03-03",
         "formatted_price": "5억 메소"
+      },
+      {
+        "id": 3849,
+        "item_id": 779,
+        "price": 522222222,
+        "date": "2026-08-10",
+        "formatted_price": "5억 2,222만 메소"
       }
     ],
     "780": [
@@ -35901,6 +36132,13 @@
         "price": 730000000,
         "date": "2026-03-03",
         "formatted_price": "7억 3,000만 메소"
+      },
+      {
+        "id": 3850,
+        "item_id": 780,
+        "price": 750000000,
+        "date": "2026-08-10",
+        "formatted_price": "7억 5,000만 메소"
       }
     ],
     "781": [
@@ -35917,6 +36155,13 @@
         "price": 500000000,
         "date": "2026-03-03",
         "formatted_price": "5억 메소"
+      },
+      {
+        "id": 3851,
+        "item_id": 781,
+        "price": 528000000,
+        "date": "2026-08-10",
+        "formatted_price": "5억 2,800만 메소"
       }
     ],
     "782": [
@@ -35933,6 +36178,13 @@
         "price": 32000000,
         "date": "2026-03-03",
         "formatted_price": "3,200만 메소"
+      },
+      {
+        "id": 3852,
+        "item_id": 782,
+        "price": 27777777,
+        "date": "2026-08-10",
+        "formatted_price": "2,777만 메소"
       }
     ],
     "783": [
@@ -35949,6 +36201,13 @@
         "price": 97000000,
         "date": "2026-03-03",
         "formatted_price": "9,700만 메소"
+      },
+      {
+        "id": 3853,
+        "item_id": 783,
+        "price": 150000000,
+        "date": "2026-08-10",
+        "formatted_price": "1억 5,000만 메소"
       }
     ],
     "784": [
@@ -35965,6 +36224,13 @@
         "price": 47000000,
         "date": "2026-03-03",
         "formatted_price": "4,700만 메소"
+      },
+      {
+        "id": 3854,
+        "item_id": 784,
+        "price": 48888888,
+        "date": "2026-08-10",
+        "formatted_price": "4,888만 메소"
       }
     ],
     "785": [
@@ -35980,6 +36246,13 @@
         "item_id": 785,
         "price": 600000000,
         "date": "2026-03-03",
+        "formatted_price": "6억 메소"
+      },
+      {
+        "id": 3855,
+        "item_id": 785,
+        "price": 600000000,
+        "date": "2026-08-10",
         "formatted_price": "6억 메소"
       }
     ],
@@ -35997,6 +36270,13 @@
         "price": 27000000,
         "date": "2026-03-03",
         "formatted_price": "2,700만 메소"
+      },
+      {
+        "id": 3856,
+        "item_id": 786,
+        "price": 64222222,
+        "date": "2026-08-10",
+        "formatted_price": "6,422만 메소"
       }
     ],
     "787": [
@@ -36013,6 +36293,13 @@
         "price": 700000000,
         "date": "2026-03-03",
         "formatted_price": "7억 메소"
+      },
+      {
+        "id": 3857,
+        "item_id": 787,
+        "price": 1500000000,
+        "date": "2026-08-10",
+        "formatted_price": "15억 메소"
       }
     ],
     "788": [
@@ -36029,6 +36316,13 @@
         "price": 28000000,
         "date": "2026-03-03",
         "formatted_price": "2,800만 메소"
+      },
+      {
+        "id": 3858,
+        "item_id": 788,
+        "price": 22999999,
+        "date": "2026-08-10",
+        "formatted_price": "2,299만 메소"
       }
     ],
     "789": [
@@ -36045,6 +36339,13 @@
         "price": 130000000,
         "date": "2026-03-03",
         "formatted_price": "1억 3,000만 메소"
+      },
+      {
+        "id": 3859,
+        "item_id": 789,
+        "price": 90000000,
+        "date": "2026-08-10",
+        "formatted_price": "9,000만 메소"
       }
     ],
     "790": [
@@ -36061,6 +36362,13 @@
         "price": 40000000,
         "date": "2026-03-03",
         "formatted_price": "4,000만 메소"
+      },
+      {
+        "id": 3860,
+        "item_id": 790,
+        "price": 44444444,
+        "date": "2026-08-10",
+        "formatted_price": "4,444만 메소"
       }
     ],
     "791": [
@@ -36076,6 +36384,13 @@
         "item_id": 791,
         "price": 55000000,
         "date": "2026-03-03",
+        "formatted_price": "5,500만 메소"
+      },
+      {
+        "id": 3861,
+        "item_id": 791,
+        "price": 55000000,
+        "date": "2026-08-10",
         "formatted_price": "5,500만 메소"
       }
     ],
@@ -36093,6 +36408,13 @@
         "price": 500000000,
         "date": "2026-03-03",
         "formatted_price": "5억 메소"
+      },
+      {
+        "id": 3862,
+        "item_id": 792,
+        "price": 548999988,
+        "date": "2026-08-10",
+        "formatted_price": "5억 4,899만 메소"
       }
     ],
     "793": [
@@ -36109,6 +36431,13 @@
         "price": 500000000,
         "date": "2026-03-03",
         "formatted_price": "5억 메소"
+      },
+      {
+        "id": 3863,
+        "item_id": 793,
+        "price": 530000000,
+        "date": "2026-08-10",
+        "formatted_price": "5억 3,000만 메소"
       }
     ],
     "794": [
@@ -36125,6 +36454,13 @@
         "price": 500000000,
         "date": "2026-03-03",
         "formatted_price": "5억 메소"
+      },
+      {
+        "id": 3864,
+        "item_id": 794,
+        "price": 777777777,
+        "date": "2026-08-10",
+        "formatted_price": "7억 7,777만 메소"
       }
     ],
     "795": [
@@ -36141,6 +36477,13 @@
         "price": 500000000,
         "date": "2026-03-03",
         "formatted_price": "5억 메소"
+      },
+      {
+        "id": 3865,
+        "item_id": 795,
+        "price": 475000000,
+        "date": "2026-08-10",
+        "formatted_price": "4억 7,500만 메소"
       }
     ],
     "796": [
@@ -36157,6 +36500,13 @@
         "price": 500000000,
         "date": "2026-03-03",
         "formatted_price": "5억 메소"
+      },
+      {
+        "id": 3866,
+        "item_id": 796,
+        "price": 597000000,
+        "date": "2026-08-10",
+        "formatted_price": "5억 9,700만 메소"
       }
     ],
     "798": [
@@ -36173,6 +36523,13 @@
         "price": 90000000,
         "date": "2026-03-03",
         "formatted_price": "9,000만 메소"
+      },
+      {
+        "id": 3867,
+        "item_id": 798,
+        "price": 97777777,
+        "date": "2026-08-10",
+        "formatted_price": "9,777만 메소"
       }
     ],
     "799": [
@@ -36189,6 +36546,13 @@
         "price": 400000000,
         "date": "2026-03-03",
         "formatted_price": "4억 메소"
+      },
+      {
+        "id": 3868,
+        "item_id": 799,
+        "price": 450000000,
+        "date": "2026-08-10",
+        "formatted_price": "4억 5,000만 메소"
       }
     ],
     "800": [
@@ -36205,6 +36569,13 @@
         "price": 28000000,
         "date": "2026-03-03",
         "formatted_price": "2,800만 메소"
+      },
+      {
+        "id": 3869,
+        "item_id": 800,
+        "price": 23000000,
+        "date": "2026-08-10",
+        "formatted_price": "2,300만 메소"
       }
     ],
     "801": [
@@ -36221,6 +36592,13 @@
         "price": 110000000,
         "date": "2026-03-03",
         "formatted_price": "1억 1,000만 메소"
+      },
+      {
+        "id": 3870,
+        "item_id": 801,
+        "price": 747474747,
+        "date": "2026-08-10",
+        "formatted_price": "7억 4,747만 메소"
       }
     ],
     "803": [
@@ -36237,6 +36615,13 @@
         "price": 70000000,
         "date": "2026-03-03",
         "formatted_price": "7,000만 메소"
+      },
+      {
+        "id": 3871,
+        "item_id": 803,
+        "price": 74999999,
+        "date": "2026-08-10",
+        "formatted_price": "7,499만 메소"
       }
     ],
     "806": [
@@ -36253,6 +36638,13 @@
         "price": 35000000,
         "date": "2026-03-03",
         "formatted_price": "3,500만 메소"
+      },
+      {
+        "id": 3872,
+        "item_id": 806,
+        "price": 44999999,
+        "date": "2026-08-10",
+        "formatted_price": "4,499만 메소"
       }
     ],
     "807": [
@@ -36269,6 +36661,13 @@
         "price": 70000000,
         "date": "2026-03-03",
         "formatted_price": "7,000만 메소"
+      },
+      {
+        "id": 3873,
+        "item_id": 807,
+        "price": 105000000,
+        "date": "2026-08-10",
+        "formatted_price": "1억 500만 메소"
       }
     ],
     "809": [
@@ -36285,6 +36684,13 @@
         "price": 400000000,
         "date": "2026-03-03",
         "formatted_price": "4억 메소"
+      },
+      {
+        "id": 3874,
+        "item_id": 809,
+        "price": 1300000000,
+        "date": "2026-08-10",
+        "formatted_price": "13억 메소"
       }
     ],
     "810": [
@@ -36301,6 +36707,13 @@
         "price": 500000000,
         "date": "2026-03-03",
         "formatted_price": "5억 메소"
+      },
+      {
+        "id": 3875,
+        "item_id": 810,
+        "price": 1267777777,
+        "date": "2026-08-10",
+        "formatted_price": "12억 6,777만 메소"
       }
     ],
     "811": [
@@ -36317,6 +36730,13 @@
         "price": 500000000,
         "date": "2026-03-03",
         "formatted_price": "5억 메소"
+      },
+      {
+        "id": 3876,
+        "item_id": 811,
+        "price": 566666666,
+        "date": "2026-08-10",
+        "formatted_price": "5억 6,666만 메소"
       }
     ],
     "812": [
@@ -36333,6 +36753,13 @@
         "price": 500000000,
         "date": "2026-03-03",
         "formatted_price": "5억 메소"
+      },
+      {
+        "id": 3877,
+        "item_id": 812,
+        "price": 565000000,
+        "date": "2026-08-10",
+        "formatted_price": "5억 6,500만 메소"
       }
     ],
     "813": [
@@ -36349,6 +36776,13 @@
         "price": 500000000,
         "date": "2026-03-03",
         "formatted_price": "5억 메소"
+      },
+      {
+        "id": 3878,
+        "item_id": 813,
+        "price": 555555555,
+        "date": "2026-08-10",
+        "formatted_price": "5억 5,555만 메소"
       }
     ],
     "814": [
@@ -36365,6 +36799,13 @@
         "price": 32000000,
         "date": "2026-03-03",
         "formatted_price": "3,200만 메소"
+      },
+      {
+        "id": 3879,
+        "item_id": 814,
+        "price": 38886888,
+        "date": "2026-08-10",
+        "formatted_price": "3,888만 메소"
       }
     ],
     "815": [
@@ -36381,6 +36822,13 @@
         "price": 30000000,
         "date": "2026-03-03",
         "formatted_price": "3,000만 메소"
+      },
+      {
+        "id": 3880,
+        "item_id": 815,
+        "price": 38800000,
+        "date": "2026-08-10",
+        "formatted_price": "3,880만 메소"
       }
     ],
     "816": [
@@ -36397,6 +36845,13 @@
         "price": 34000000,
         "date": "2026-03-03",
         "formatted_price": "3,400만 메소"
+      },
+      {
+        "id": 3881,
+        "item_id": 816,
+        "price": 55000000,
+        "date": "2026-08-10",
+        "formatted_price": "5,500만 메소"
       }
     ],
     "817": [
@@ -36413,6 +36868,13 @@
         "price": 8000000,
         "date": "2026-03-03",
         "formatted_price": "800만 메소"
+      },
+      {
+        "id": 3882,
+        "item_id": 817,
+        "price": 9999999,
+        "date": "2026-08-10",
+        "formatted_price": "999만 메소"
       }
     ],
     "818": [
@@ -36429,6 +36891,13 @@
         "price": 11000000,
         "date": "2026-03-03",
         "formatted_price": "1,100만 메소"
+      },
+      {
+        "id": 3883,
+        "item_id": 818,
+        "price": 25000000,
+        "date": "2026-08-10",
+        "formatted_price": "2,500만 메소"
       }
     ],
     "819": [
@@ -36445,6 +36914,13 @@
         "price": 38000000,
         "date": "2026-03-03",
         "formatted_price": "3,800만 메소"
+      },
+      {
+        "id": 3884,
+        "item_id": 819,
+        "price": 98989898,
+        "date": "2026-08-10",
+        "formatted_price": "9,898만 메소"
       }
     ],
     "820": [
@@ -36461,6 +36937,13 @@
         "price": 70000000,
         "date": "2026-03-03",
         "formatted_price": "7,000만 메소"
+      },
+      {
+        "id": 3885,
+        "item_id": 820,
+        "price": 477777777,
+        "date": "2026-08-10",
+        "formatted_price": "4억 7,777만 메소"
       }
     ],
     "821": [
@@ -36477,6 +36960,13 @@
         "price": 4000000,
         "date": "2026-03-03",
         "formatted_price": "400만 메소"
+      },
+      {
+        "id": 3886,
+        "item_id": 821,
+        "price": 11111111,
+        "date": "2026-08-10",
+        "formatted_price": "1,111만 메소"
       }
     ],
     "822": [
@@ -36493,6 +36983,13 @@
         "price": 17000000,
         "date": "2026-03-03",
         "formatted_price": "1,700만 메소"
+      },
+      {
+        "id": 3887,
+        "item_id": 822,
+        "price": 40000000,
+        "date": "2026-08-10",
+        "formatted_price": "4,000만 메소"
       }
     ],
     "823": [
@@ -36509,6 +37006,13 @@
         "price": 25000000,
         "date": "2026-03-03",
         "formatted_price": "2,500만 메소"
+      },
+      {
+        "id": 3888,
+        "item_id": 823,
+        "price": 88888688,
+        "date": "2026-08-10",
+        "formatted_price": "8,888만 메소"
       }
     ],
     "824": [
@@ -36525,6 +37029,13 @@
         "price": 60000000,
         "date": "2026-03-03",
         "formatted_price": "6,000만 메소"
+      },
+      {
+        "id": 3889,
+        "item_id": 824,
+        "price": 369000000,
+        "date": "2026-08-10",
+        "formatted_price": "3억 6,900만 메소"
       }
     ],
     "825": [
@@ -36541,6 +37052,13 @@
         "price": 34000000,
         "date": "2026-03-03",
         "formatted_price": "3,400만 메소"
+      },
+      {
+        "id": 3890,
+        "item_id": 825,
+        "price": 80000000,
+        "date": "2026-08-10",
+        "formatted_price": "8,000만 메소"
       }
     ],
     "826": [
@@ -36557,6 +37075,13 @@
         "price": 29000000,
         "date": "2026-03-03",
         "formatted_price": "2,900만 메소"
+      },
+      {
+        "id": 3891,
+        "item_id": 826,
+        "price": 70000000,
+        "date": "2026-08-10",
+        "formatted_price": "7,000만 메소"
       }
     ],
     "827": [
@@ -36573,6 +37098,13 @@
         "price": 540000000,
         "date": "2026-03-03",
         "formatted_price": "5억 4,000만 메소"
+      },
+      {
+        "id": 3892,
+        "item_id": 827,
+        "price": 933333333,
+        "date": "2026-08-10",
+        "formatted_price": "9억 3,333만 메소"
       }
     ],
     "828": [
@@ -36589,6 +37121,13 @@
         "price": 32000000,
         "date": "2026-03-03",
         "formatted_price": "3,200만 메소"
+      },
+      {
+        "id": 3893,
+        "item_id": 828,
+        "price": 31000000,
+        "date": "2026-08-10",
+        "formatted_price": "3,100만 메소"
       }
     ],
     "829": [
@@ -36605,6 +37144,13 @@
         "price": 500000000,
         "date": "2026-03-03",
         "formatted_price": "5억 메소"
+      },
+      {
+        "id": 3894,
+        "item_id": 829,
+        "price": 539999999,
+        "date": "2026-08-10",
+        "formatted_price": "5억 3,999만 메소"
       }
     ],
     "830": [
@@ -36621,6 +37167,13 @@
         "price": 500000000,
         "date": "2026-03-03",
         "formatted_price": "5억 메소"
+      },
+      {
+        "id": 3895,
+        "item_id": 830,
+        "price": 489999999,
+        "date": "2026-08-10",
+        "formatted_price": "4억 8,999만 메소"
       }
     ],
     "831": [
@@ -36637,6 +37190,13 @@
         "price": 500000000,
         "date": "2026-03-03",
         "formatted_price": "5억 메소"
+      },
+      {
+        "id": 3896,
+        "item_id": 831,
+        "price": 722222222,
+        "date": "2026-08-10",
+        "formatted_price": "7억 2,222만 메소"
       }
     ],
     "833": [
@@ -36653,6 +37213,13 @@
         "price": 19000000,
         "date": "2026-03-03",
         "formatted_price": "1,900만 메소"
+      },
+      {
+        "id": 3897,
+        "item_id": 833,
+        "price": 33333333,
+        "date": "2026-08-10",
+        "formatted_price": "3,333만 메소"
       }
     ],
     "834": [
@@ -36669,6 +37236,13 @@
         "price": 65000000,
         "date": "2026-03-03",
         "formatted_price": "6,500만 메소"
+      },
+      {
+        "id": 3898,
+        "item_id": 834,
+        "price": 212222200,
+        "date": "2026-08-10",
+        "formatted_price": "2억 1,222만 메소"
       }
     ],
     "835": [
@@ -36685,6 +37259,13 @@
         "price": 15000000,
         "date": "2026-03-03",
         "formatted_price": "1,500만 메소"
+      },
+      {
+        "id": 3899,
+        "item_id": 835,
+        "price": 35000000,
+        "date": "2026-08-10",
+        "formatted_price": "3,500만 메소"
       }
     ],
     "836": [
@@ -36701,6 +37282,13 @@
         "price": 20000000,
         "date": "2026-03-03",
         "formatted_price": "2,000만 메소"
+      },
+      {
+        "id": 3900,
+        "item_id": 836,
+        "price": 34444344,
+        "date": "2026-08-10",
+        "formatted_price": "3,444만 메소"
       }
     ],
     "837": [
@@ -36717,6 +37305,13 @@
         "price": 61000000,
         "date": "2026-03-03",
         "formatted_price": "6,100만 메소"
+      },
+      {
+        "id": 3901,
+        "item_id": 837,
+        "price": 33000000,
+        "date": "2026-08-10",
+        "formatted_price": "3,300만 메소"
       }
     ],
     "838": [
@@ -36733,6 +37328,13 @@
         "price": 22000000,
         "date": "2026-03-03",
         "formatted_price": "2,200만 메소"
+      },
+      {
+        "id": 3902,
+        "item_id": 838,
+        "price": 65000000,
+        "date": "2026-08-10",
+        "formatted_price": "6,500만 메소"
       }
     ],
     "839": [
@@ -36749,6 +37351,13 @@
         "price": 13000000,
         "date": "2026-03-03",
         "formatted_price": "1,300만 메소"
+      },
+      {
+        "id": 3903,
+        "item_id": 839,
+        "price": 33333333,
+        "date": "2026-08-10",
+        "formatted_price": "3,333만 메소"
       }
     ],
     "841": [
@@ -36765,6 +37374,13 @@
         "price": 3000000,
         "date": "2026-03-03",
         "formatted_price": "300만 메소"
+      },
+      {
+        "id": 3904,
+        "item_id": 841,
+        "price": 14000000,
+        "date": "2026-08-10",
+        "formatted_price": "1,400만 메소"
       }
     ],
     "842": [
@@ -36781,6 +37397,13 @@
         "price": 37000000,
         "date": "2026-03-03",
         "formatted_price": "3,700만 메소"
+      },
+      {
+        "id": 3905,
+        "item_id": 842,
+        "price": 37777677,
+        "date": "2026-08-10",
+        "formatted_price": "3,777만 메소"
       }
     ],
     "844": [
@@ -36797,6 +37420,13 @@
         "price": 10000000,
         "date": "2026-03-03",
         "formatted_price": "1,000만 메소"
+      },
+      {
+        "id": 3906,
+        "item_id": 844,
+        "price": 21999999,
+        "date": "2026-08-10",
+        "formatted_price": "2,199만 메소"
       }
     ],
     "846": [
@@ -36813,6 +37443,13 @@
         "price": 35000000,
         "date": "2026-03-03",
         "formatted_price": "3,500만 메소"
+      },
+      {
+        "id": 3907,
+        "item_id": 846,
+        "price": 62626262,
+        "date": "2026-08-10",
+        "formatted_price": "6,262만 메소"
       }
     ],
     "847": [
@@ -36829,6 +37466,13 @@
         "price": 2000000000,
         "date": "2026-03-03",
         "formatted_price": "20억 메소"
+      },
+      {
+        "id": 3908,
+        "item_id": 847,
+        "price": 1840000000,
+        "date": "2026-08-10",
+        "formatted_price": "18억 4,000만 메소"
       }
     ],
     "848": [
@@ -36845,6 +37489,13 @@
         "price": 700000000,
         "date": "2026-03-03",
         "formatted_price": "7억 메소"
+      },
+      {
+        "id": 3909,
+        "item_id": 848,
+        "price": 1200000000,
+        "date": "2026-08-10",
+        "formatted_price": "12억 메소"
       }
     ],
     "849": [
@@ -36861,6 +37512,13 @@
         "price": 500000000,
         "date": "2026-03-03",
         "formatted_price": "5억 메소"
+      },
+      {
+        "id": 3910,
+        "item_id": 849,
+        "price": 451111111,
+        "date": "2026-08-10",
+        "formatted_price": "4억 5,111만 메소"
       }
     ],
     "850": [
@@ -36877,6 +37535,13 @@
         "price": 500000000,
         "date": "2026-03-03",
         "formatted_price": "5억 메소"
+      },
+      {
+        "id": 3911,
+        "item_id": 850,
+        "price": 600000000,
+        "date": "2026-08-10",
+        "formatted_price": "6억 메소"
       }
     ],
     "851": [
@@ -36893,6 +37558,13 @@
         "price": 3000000,
         "date": "2026-03-03",
         "formatted_price": "300만 메소"
+      },
+      {
+        "id": 3912,
+        "item_id": 851,
+        "price": 9988888,
+        "date": "2026-08-10",
+        "formatted_price": "998만 메소"
       }
     ],
     "853": [
@@ -36909,6 +37581,13 @@
         "price": 14000000,
         "date": "2026-03-03",
         "formatted_price": "1,400만 메소"
+      },
+      {
+        "id": 3913,
+        "item_id": 853,
+        "price": 13444444,
+        "date": "2026-08-10",
+        "formatted_price": "1,344만 메소"
       }
     ],
     "854": [
@@ -36925,6 +37604,13 @@
         "price": 10000000,
         "date": "2026-03-03",
         "formatted_price": "1,000만 메소"
+      },
+      {
+        "id": 3914,
+        "item_id": 854,
+        "price": 19999997,
+        "date": "2026-08-10",
+        "formatted_price": "1,999만 메소"
       }
     ],
     "855": [
@@ -36941,6 +37627,13 @@
         "price": 21000000,
         "date": "2026-03-03",
         "formatted_price": "2,100만 메소"
+      },
+      {
+        "id": 3915,
+        "item_id": 855,
+        "price": 28000000,
+        "date": "2026-08-10",
+        "formatted_price": "2,800만 메소"
       }
     ],
     "856": [
@@ -36957,6 +37650,13 @@
         "price": 18000000,
         "date": "2026-03-03",
         "formatted_price": "1,800만 메소"
+      },
+      {
+        "id": 3916,
+        "item_id": 856,
+        "price": 4000000,
+        "date": "2026-08-10",
+        "formatted_price": "400만 메소"
       }
     ],
     "857": [
@@ -47934,8 +48634,8 @@
       "season": 158,
       "item_count": 18,
       "total_qty": 27,
-      "total_val": 6280322211,
-      "formatted_val": "62억 8,032만 메소"
+      "total_val": 6289322211,
+      "formatted_val": "62억 8,932만 메소"
     },
     {
       "season": 157,
@@ -48018,57 +48718,57 @@
       "season": 146,
       "item_count": 15,
       "total_qty": 38,
-      "total_val": 13670777776,
-      "formatted_val": "136억 7,077만 메소"
+      "total_val": 13668099990,
+      "formatted_val": "136억 6,809만 메소"
     },
     {
       "season": 145,
       "item_count": 19,
       "total_qty": 34,
-      "total_val": 9187000000,
-      "formatted_val": "91억 8,700만 메소"
+      "total_val": 9668403711,
+      "formatted_val": "96억 6,840만 메소"
     },
     {
       "season": 144,
       "item_count": 18,
       "total_qty": 36,
-      "total_val": 3892000000,
-      "formatted_val": "38억 9,200만 메소"
+      "total_val": 6464567281,
+      "formatted_val": "64억 6,456만 메소"
     },
     {
       "season": 143,
       "item_count": 17,
       "total_qty": 31,
-      "total_val": 6062000000,
-      "formatted_val": "60억 6,200만 메소"
+      "total_val": 11865535345,
+      "formatted_val": "118억 6,553만 메소"
     },
     {
       "season": 142,
       "item_count": 15,
       "total_qty": 30,
-      "total_val": 6584000000,
-      "formatted_val": "65억 8,400만 메소"
+      "total_val": 7988111081,
+      "formatted_val": "79억 8,811만 메소"
     },
     {
       "season": 141,
       "item_count": 12,
       "total_qty": 25,
-      "total_val": 6325000000,
-      "formatted_val": "63억 2,500만 메소"
+      "total_val": 6763799931,
+      "formatted_val": "67억 6,379만 메소"
     },
     {
       "season": 140,
       "item_count": 17,
       "total_qty": 36,
-      "total_val": 7867000000,
-      "formatted_val": "78억 6,700만 메소"
+      "total_val": 8260355549,
+      "formatted_val": "82억 6,035만 메소"
     },
     {
       "season": 139,
       "item_count": 15,
       "total_qty": 30,
-      "total_val": 5421000000,
-      "formatted_val": "54억 2,100만 메소"
+      "total_val": 6455333296,
+      "formatted_val": "64억 5,533만 메소"
     },
     {
       "season": 138,
